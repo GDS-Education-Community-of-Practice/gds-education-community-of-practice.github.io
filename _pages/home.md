@@ -57,5 +57,5 @@ We are a collaboration between UMD, NIST, and many other places.
 <figure>
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/apslogo.gif" style="width: 100px">&nbsp;&nbsp;
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/IPST.png" style="width: 300px">&nbsp;&nbsp;&nbsp;
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NIST.png" style="width: 180px">
+  <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NIST.png" style="width: 180px"> -->
 </figure>
