@@ -43,7 +43,7 @@ Jump to [PIs](#pis), [speakers](#speakers), [technical support](#technical-suppo
 </div>
 {% endif %}
 
-## Technical Support
+## Community Manager
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/zenginoglu.jpg" class="img-responsive" width="33%" style="float: left" />
   <h4>Anıl Zenginoğlu</h4>
