@@ -43,38 +43,6 @@ Jump to [PIs](#pis), [speakers](#speakers), [technical support](#technical-suppo
 </div>
 {% endif %}
 
-## Speakers
-
-{% assign number_printed = 0 %}
-{% for speaker in site.data.speakers %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-sm-6 clearfix">
-  <h4>{{ speaker.name }}</h4>
-  <strong>Bio:</strong> <i> {{ speaker.bio }}</i>
-  <ul style="overflow: hidden">
-
-  </ul>
-</div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
 ## Technical Support
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/zenginoglu.jpg" class="img-responsive" width="33%" style="float: left" />
