@@ -1,0 +1,35 @@
+email:
+  id: 'dsecop@aps.org'
+  href: 'mailto:'
+  title: 'Email'
+  fa-icon: 'fa-envelope-square'
+
+facebook:
+  id: 'APSDataScience'
+  href: 'https://www.facebook.com/'
+  title: 'Facebook'
+  fa-icon: 'fa-facebook-square'
+
+twitter:
+  id: 'APSDataScience'
+  href: 'https://www.twitter.com/'
+  title: 'Twitter'
+  fa-icon: 'fa-twitter-square'
+
+linkedin:
+  id: 'APSDataScience'
+  href: 'https://linkedin.com/'
+  title: 'LinkedIn'
+  fa-icon: 'fa-linkedin-square'
+
+youtube:
+  id: 'APSDataScience'
+  href: 'https://youtube.com/'
+  title: 'YouTube'
+  fa-icon: 'fa-youtube-square'
+
+# slack:
+#   id: ''
+#   href: 'https://join.slack.com/t/aps-gds/shared_invite/zt-cc04p8jl-DQ~a~DMn8_iHBnjaBSL_6A'
+#   title: 'Slack'
+#   fa-icon: 'fa-slack'
