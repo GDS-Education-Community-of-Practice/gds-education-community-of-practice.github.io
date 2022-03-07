@@ -17,13 +17,13 @@ twitter:
   fa-icon: 'fa-twitter-square'
 
 linkedin:
-  id: 'APSDataScience'
+  id: 'company/apsdatascience/'
   href: 'https://linkedin.com/'
   title: 'LinkedIn'
   fa-icon: 'fa-linkedin-square'
 
 youtube:
-  id: 'APSDataScience'
+  id: 'channel/UCfPG-nSsgnFeWuzgPcbKlCw'
   href: 'https://youtube.com/'
   title: 'YouTube'
   fa-icon: 'fa-youtube-square'
