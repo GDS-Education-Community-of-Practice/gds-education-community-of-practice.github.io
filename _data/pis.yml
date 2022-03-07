@@ -3,14 +3,14 @@
   info: Uses neutron scattering and AI to explore superconducting materials that might be useful for quantum computers.
   website: https://www.nist.gov/people/william-d-ratcliff
   email: wratclif@umd.edu
-  aff: NIST
+  aff: National Institute of Standards and Technology
 
 - name: Wolfgang Losert
   photo: losert.jpg
   info: Studies dynamical properties of complex systems at the convergence of physics and biology with special focus on cell motion and collective behavior to understand cancer.
   website: https://losertlab.umd.edu/
   email: wlosert@umd.edu
-  aff: IPST and Physics at UMD
+  aff: IPST and Physics at the University of Maryland
 
 - name: Maria (Marilena) Longobardi
   photo: longobardi.jpg
@@ -24,5 +24,11 @@
   info: Consultant, evaluator, and researcher in postsecondary STEM education.
   website: https://www.alexis.science/
   email: avknaub@gmail.com
-  aff: AAPT
-  
+  aff: American Association of Physics Teachers
+
+- name: Mohammad Soltanieh-ha
+  photo: soltanieh-ha.jpg
+  info: Strongly correlated electronic systems in low dimensions, computer vision in cancer diagnosis, high-performance computing. Faculty Expert at Google Cloud.
+  website: https://www.bu.edu/questrom/profile/mohammad-soltanieh-ha/
+  email: msoltani@bu.edu
+  aff: Questrom School of Business at Boston University
