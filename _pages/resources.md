@@ -20,7 +20,8 @@ We aim to build a community of researchers, practitioners, and learners to engag
     {% for entry in sm %}
         {% assign key = entry | first %}
         {% if sm[key].id %}
-            <a href="{{ sm[key].href }}{{ sm[key].id }}" title="{{ sm[key].title }}"><i class="fa {{ sm[key].fa-icon fa-5x}}" style="font-size: 3em;"></i></a>
+            <a href="{{ sm[key].href }}{{ sm[key].id }}" title="{{ sm[key].title }}">
+            <i class="fa {{ sm[key].fa-icon}}" style="font-size: 3em;"></i></a>
         {% endif %}
     {% endfor %}
 <div>

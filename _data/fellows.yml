@@ -1,41 +1,52 @@
-- name: Cunwei Fan
-  photo:
-  info: 
-  website: 
-  email: 
-  aff: 
-
-- name: Karan Shah
-  photo:
-  info: 
-  website: 
-  email: 
-  aff: 
 
 - name: Sebastian Atalla
-  photo:
-  info: 
-  website: 
-  email: 
-  aff: 
+  photo: atalla.jpg
+  info: Investigating the use of deep learning in denoising and reconstructing hyperpolarized xenon-129 MRI and xenon-enhanced CT
+  website: https://github.com/swatalla
+  email: atalla@unc.edu
+  aff: The University of North Carolina at Chapel Hill
+  title: PhD Student
 
 - name: Fatemeh Bagheri
-  photo:
-  info: 
+  photo: bagheri.jpg
+  info: Observations of exoplanets orbiting source stars in microlensing events and the direct detection of light reflection from exoplanets.
+  bio: I am currently an NSF postdoctoral fellow at The University of Texas at Arlington (UTA). My research is on Infrared-Radio-follow-up Observations for Detection of the Magnetic Radio Emission of Extra-Solar Planets. The research component of my postdoc is motivated by my first Ph.D. work on the detection of exoplanets via microlensing events, where I studied the possibility of observations of exoplanets orbiting source stars in microlensing events and the possibility of the direct detection of light reflection from exoplanets. My simulations of the Nancy Roman Telescope show that this new channel of microlensing observation is promising and will lead to the discovery of tens of exoplanets. My unexpected immigration to the US in the middle of my Ph.D. studies at Sharif University of Technology (SUT) prevented me from defending my dissertation in person. SUT did not accept my online defense at the time. This policy changed due to the COVID-19 pandemic, and I successfully defended my dissertation in Planetary Sciences. Nevertheless, since my initial request for an online defense was unsuccessful, I started a new Ph.D. at UTA in Space Science. My school choice was imposed on me by my husband's job, a UTA faculty member. While a student at UTA, I worked on the solar wind-magnetosphere interactions using observational data and LFM simulations.
   website: 
-  email: 
-  aff: 
+  email: bagheri.fateme@gmail.com
+  aff: The University of Texas at Arlington (UTA)
+  title: NSF Postdoc
 
 - name: Julie Butler
-  photo:
-  info: 
+  photo: butler.jpg
+  info: Machine learning in many-body studies of the nucleus and related nuclear systems
+  bio: I was born in South Carolina. My undergraduate institution was Erskine College in Due West, South Carolina where I majored in mathematics, chemistry, and physics. I am currently pursuing a PhD in theoretical nuclear physics at Michigan State University. My research involves finding applications for machine learning in many-body studies of the nucleus and related nuclear systems.
   website: 
-  email: 
-  aff: 
+  email: butle222@msu.edu
+  aff: Michigan State University
+  title: PhD Student
+
+- name: Cunwei Fan
+  photo: fan.jpg
+  info: Deep learning methods to analyze leptons from data produced by hadron collider and Monte Carlo simulation from CERN
+  bio: I am a fifth year Ph.D. candidate at University of Illinois at Urbana Champaign. I come from China and have been in the physics department of the university for eight years. During these years, I have tried various fields in physics, from computational physics to theoretical string theory and finally landing in high energy experiment.  The high energy experiment projects are fascinating because I can learn and utilize data driven techniques to model physics through experimental results without knowing the true hidden physics.  Now, I am using deep learning methods to analyze leptons from data produced by hadron collider and Monte Carlo simulation from CERN. Besides, in the free time, I also participated some internship programs in the industry, where I gained experience and practical techniques in solving problems by machine learning methods.
+  website: 
+  email: cfan11@illinois.edu
+  aff: University of Illinois at Urbana Champaign
+  title: PhD Student
 
 - name: Radha Mastandrea
-  photo:
-  info: 
+  photo: mastandrea.jpeg
+  info: Trains neural networks to recognize the physical symmetries of particle collision events and use these symmetries for classification tasks. 
+  bio: I am a first-year PhD student in Physics at UC Berkeley. My research interests are in machine learning for fundamental physics. Specifically, I use neural networks to explore the physical symmetries of particle collision events and then capitalize on these symmetries when performing classification tasks. I did my undergraduate degree at MIT and completed a masters in physics at the University of Cambridge (where I investigated Lorentz-symmetry violating particle collisions, in contrast to my current work!). Outside of the lab, I enjoy distance running and playing board games.
   website: 
-  email: 
-  aff: 
+  email: rmastand@berkeley.edu
+  aff: UC Berkeley, Lawrence Berkeley National Laboratory
+  title: PhD Student
+
+- name: Karan Shah
+  photo: shah.jpeg
+  info: Machine learning accelerated electronic structure simulations for matter under extreme conditions.
+  website: https://karan.sh
+  email: k.shah@hzdr.de
+  aff: Center for Advanced Systems Understanding, Helmholtz-Zentrum Dresden-Rossendorf, Görlitz, Germany
+  title: PhD Student

@@ -50,12 +50,13 @@ permalink: /team/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="33%" style="float: left" /> -->
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="33%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <!-- <i>{{ member.info }} </i>
+  <i>{{ member.info }} </i>
   <br>Email: <{{ member.email }}>
-  <br>Web: <{{ member.website }}>
-  <br>Affiliation: {{ member.aff }} -->
+  <br> Web: {% if member.website %} <{{ member.website }}> {% else %} <{{ site.url }}{{ site.baseurl }}/team#fellows> {% endif %}
+  <br>Title: {{ member.title }}
+  <br>Affiliation: {{ member.aff }}
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
@@ -73,9 +74,9 @@ permalink: /team/
 
 # Community Manager
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/zenginoglu.jpg" class="img-responsive" width="33%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/zenginoglu.jpg" class="img-responsive" width="36%" style="float: left" />
   <h4>Anıl Zenginoğlu</h4>
-  <i> Works on wave equations, black holes, gravitational waves, and null infinity.</i>
+  <i> Black holes, gravitational waves, hyperbolic geometry, and null infinity.</i>
   <br>Email: <a href="mailto:anil@umd.edu">anil@umd.edu</a>
   <br>Web: <a href="https://anilzen.github.io">anilzen.github.io</a>
   <br>Affiliation: IPST at the University of Maryland
