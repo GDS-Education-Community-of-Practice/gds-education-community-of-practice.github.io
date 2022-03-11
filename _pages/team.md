@@ -54,7 +54,7 @@ permalink: /team/
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} </i>
   <br>Email: <{{ member.email }}>
-  <br> Web: {% if member.website %} <{{ member.website }}> {% else %} <{{ site.url }}{{ site.baseurl }}/team#fellows> {% endif %}
+  <br> Web: {% if member.website %} <{{ member.website }}> {% else %} <a href="{{ site.url }}{{ site.baseurl }}/team#fellows">DSECOP Fellows</a> {% endif %}
   <br>Title: {{ member.title }}
   <br>Affiliation: {{ member.aff }}
 </div>
