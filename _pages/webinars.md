@@ -1,9 +1,9 @@
 ---
-title: "DSECOP - Events"
+title: "DSECOP - Webinars"
 layout: gridlay
-excerpt: "DSECOP: Events"
+excerpt: "DSECOP: Webinars"
 sitemap: false
-permalink: /events/
+permalink: /webinars/
 ---
 
 ## Teaching Data Science to Physicists (March 4, 2022) <a name="webinar"></a>

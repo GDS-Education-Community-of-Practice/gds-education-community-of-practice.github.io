@@ -50,7 +50,7 @@ The Data Science Education Community of Practice (DSECOP), a program funded by t
 </div> -->
 
 
-To this end, we organize events such as webinars, bootcamps, and more (see [Events](events)).
+To this end, we organize events such as [webinars](webinars) and [workshops](workshops).
 
 We are a collaboration between UMD, NIST, and many other places.
 
