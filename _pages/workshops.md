@@ -14,4 +14,17 @@ The primary goal of this workshop is to develop a community of practice around i
 
 Please fill in the [application form](https://docs.google.com/forms/d/e/1FAIpQLSfj30--o6JGJbGeq2uUPBI9fIu0SoPLs0OXTRpi-OmHmkFAtg/viewform) to be considered for this workshop. Because of the interactive nature of this workshop, we expect in-person attendance.
 
+Primary lodging will be at the dorms at the University of Maryland, conveniently located to the lectures.  Lodging and meals will be $390 for the workshop.
+
 We are looking forward to your participation in a mutually stimulating and productive DSECOP workshop!
+
+Confirmed Speakers:
+* Mohammad Soltanieh-Ha (Boston University)
+* Aaron Gilad Kusne (NIST)
+* Linda Hung (Toyota Research Institute)
+* Sebastian Atalla (DSECOP Fellow, University of North Carolina at Chapel Hill)
+* Fatemeh Bagheri (DSECOP Fellow, University of Texas Arlington)
+* Julie Butler (DSECOP Fellow, Michigan State University)
+* Radha Mastandrea (DSECOP Fellow, University of California Berkeley, Lawrence Berkeley National Laboratory)
+* Karan Shah (DSECOP Fellow, Center for Advanced Systems Understanding, Helmholtz-Zentrum Dresden-Rossendorf)
+* Cunwei Fan (DSECOP Fellow, University of Illinois at Urbana Champaign) 
