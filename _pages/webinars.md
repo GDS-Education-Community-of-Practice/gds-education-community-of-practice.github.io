@@ -6,7 +6,37 @@ sitemap: false
 permalink: /webinars/
 ---
 
-## Teaching Data Science to Physicists (March 4, 2022) <a name="webinar"></a>
+## Data science in physics courses at undergraduate-focused departments (May 25, 2022) <a name="webinar"></a>
+
+Curious what data science and physics looks like when the physics department primarily serves undergraduates? This webinar is for you! Our presenters will discuss how they have included data science in their undergraduate physics courses, providing examples of what they do and sharing lessons learned. We will have plenty of time for questions and discussion.
+
+Please register to attend [here](https://umd.zoom.us/meeting/register/tJMtcuuupzwjG9cdXAuqNSgrpqPkFyrpLy5u).
+
+The webinar will take place on Wednesday, May 25th, at 1:00 pm. The moderator is the PI of the program, [William Ratcliff](https://www.nist.gov/people/william-d-ratcliff). The panelists are [Matthew Bellis](https://www.siena.edu/faculty-and-staff/person/matthew-bellis/) from Siena College and [Amy Roberts](https://clas.ucdenver.edu/physics/amy-roberts-phd) from UC Denver. 
+
+<div class="row">
+
+<div class="col-sm-6 clearfix">
+ <div class="well">
+  <pubtit>Matthew Bellis</pubtit>
+  <img src="/images/eventpic/bellis.jpg" class="img-responsive" width="33%" style="float: left" />
+  <!-- <p>Matt Bellis</p> -->
+ </div>
+</div>
+
+<div class="col-sm-6 clearfix">
+ <div class="well">
+  <pubtit>Amy Roberts</pubtit>
+  <img src="/images/eventpic/roberts.jpg" class="img-responsive" width="33%" style="float: left" />
+  <!-- <p>Amy Roberts</p> -->
+ </div>
+</div>
+
+</div>
+
+<p> &nbsp; </p>
+
+## Teaching data science to physicists (March 4, 2022) <a name="webinar"></a>
 
 Webinar on Friday, March 4th, at 10:30 am to discuss teaching data science to physicists and material scientists. In this hour-long webinar, the panelists presented strategies and challenges of incorporating data science into physics curricula for students and researchers from all backgrounds. They provided guidance on how to best implement data science and machine learning in physics teaching and research.
 
