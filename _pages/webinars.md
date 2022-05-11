@@ -20,7 +20,8 @@ The webinar will take place on Wednesday, May 25th, at 1:00 pm. The moderator is
  <div class="well">
   <pubtit>Matthew Bellis</pubtit>
   <img src="/images/eventpic/bellis.jpg" class="img-responsive" width="33%" style="float: left" />
-  <!-- <p>Matt Bellis</p> -->
+  <p>Matt Bellis is an Associate Professor in Siena College's Department of Physics and Astronomy and the coordinator for Siena's Data Science program. He received his PhD from Rensselaer and came to Siena in 2012 after research associate positions at Carnegie Mellon, Stanford, and Northern Illinois University. He has conducted primarily particle physics research with the CLAS and GlueX experiments at Jefferson Lab, BaBar at SLAC, and now with the CMS experiment at the LHC. He is passionate about education and outreach and how data science can be leveraged for social good. He has engaged with students on sports analytics, mathematics and machine learning, and has a long-standing collaboration with other faculty and community groups exploring the allocation of resources to support homeless individuals and families. 
+</p>
  </div>
 </div>
 
