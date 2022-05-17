@@ -29,7 +29,7 @@ The webinar will take place on Wednesday, May 25th, at 1:00 pm. The moderator is
  <div class="well">
   <pubtit>Amy Roberts</pubtit>
   <img src="/images/eventpic/roberts.jpg" class="img-responsive" width="33%" style="float: left" />
-  <!-- <p>Amy Roberts</p> -->
+  <p>Dr. Amy Roberts is an Assistant Professor in the Physics department, where she searches for “dark matter” with specialized detectors.  Although gravitational measurements suggest this “dark matter” makes up fully 80% of the universe’s mass, it has never been directly detected.  Dr. Roberts is a member of the Cryogenic Dark Matter Search collaboration (SuperCDMS), which specializes in sensing the faintest possible signals from highly-sensitive phonon detectors.  Her work focuses on understanding the detector response at low energies, novel signal analysis, and the data acquisition and software tools needed to keep specialized detectors running optimally.</p>
  </div>
 </div>
 
