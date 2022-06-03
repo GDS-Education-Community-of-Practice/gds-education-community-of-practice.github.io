@@ -10,7 +10,7 @@ permalink: /webinars/
 
 Curious what data science and physics looks like when the physics department primarily serves undergraduates? This webinar is for you! Our presenters discuss how they include data science in their undergraduate physics courses, providing examples of what they did and sharing lessons learned. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=wemUFfJpTPY" title="Webinar recording" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wemUFfJpTPY" title="Webinar recording" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The webinar took place on Wednesday, May 25th, at 1:00 pm. The moderator was the PI of the program, [William Ratcliff](https://www.nist.gov/people/william-d-ratcliff). The panelists were [Matthew Bellis](https://www.siena.edu/faculty-and-staff/person/matthew-bellis/) from Siena College and [Amy Roberts](https://clas.ucdenver.edu/physics/amy-roberts-phd) from UC Denver. 
 
