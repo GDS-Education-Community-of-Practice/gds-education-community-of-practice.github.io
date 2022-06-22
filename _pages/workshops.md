@@ -5,8 +5,28 @@ excerpt: "DSECOP: Workshops"
 sitemap: false
 permalink: /workshops/
 ---
+## DSECOP June 2022 Workshop Slides
+Below are the slides from our first workshop on incorporating data science in physics curriculum listed in the order of the [schedule](./../assets/22_Workshop/DSECOP22_Schedule.pdf).
 
-## DSECOP June 2022 Workshop
+#### Day 1, June 22
+
+- William Ratcliff (NIST & UMD): [Opening Remarks](./../assets/22_Workshop/ratcliff.pdf)
+- Mohammad Soltanieh-Ha (Boston University): [Overview of Fellows’ Activity](../assets/22_Workshop/soltanieh-ha.pdf)
+- Julie Butler (DSECOP Fellow, Michigan State University): [Using Neural Networks to Solve Differential Equations in Classical Mechanics](./../assets/22_Workshop/butler.pdf)
+- Radha Mastandrea (DSECOP Fellow, University of California Berkeley, Lawrence Berkeley National Laboratory): []()
+- Aaron Gilad Kusne (NIST): [Teaching Machine Learning](./../assets/22_Workshop/kusne.pdf)
+- Sebastian Atalla (DSECOP Fellow, University of North Carolina at Chapel Hill): [Frequency Decomposition of NMR Spectra](./../assets/22_Workshop/atalla.pdf)
+- Cunwei Fan (DSECOP Fellow, University of Illinois at Urbana Champaign): [Spectral Clustering Method
+with Physics](./../assets/22_Workshop/fan.pdf)
+- Karan Shah (DSECOP Fellow, Center for Advanced Systems Understanding, Helmholtz-Zentrum Dresden-Rossendorf): [Learning the Schrödinger Equation](./../assets/22_Workshop/shah.pdf)
+- Fatemeh Bagheri (DSECOP Fellow, University of Texas Arlington): [Introduction to Deep Learning](./../assets/22_Workshop/bagheri.pdf)
+- Alexis Knaub (American Association of Physics Teachers): [Challenges and Pedagogy/Curriculum](./../assets/22_Workshop/knaub.pdf)
+
+
+#### Day 2, June 23
+
+
+## DSECOP June 2022 Workshop Announcement
 
 We are delighted to announce the first workshop by the Data Science Education Community of Practice (DSECOP) to be held on June 22–24, 2022, at the Institute for Physical Science and Technology in College Park, MD.
 
