@@ -25,6 +25,8 @@ with Physics](./../assets/22_Workshop/fan.pdf)
 
 #### Day 2, June 23
 
+- Ivo Dinov (University of Michigan): [Integration of Data Science into the STEM Curricula](./../assets/22_Workshop/dinov.pdf)
+
 
 ## DSECOP June 2022 Workshop Announcement
 
