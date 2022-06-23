@@ -13,7 +13,7 @@ Below are the slides from our first workshop on incorporating data science in ph
 - William Ratcliff (NIST & UMD): [Opening Remarks](./../assets/22_Workshop/ratcliff.pdf)
 - Mohammad Soltanieh-Ha (Boston University): [Overview of Fellows’ Activity](../assets/22_Workshop/soltanieh-ha.pdf)
 - Julie Butler (DSECOP Fellow, Michigan State University): [Using Neural Networks to Solve Differential Equations in Classical Mechanics](./../assets/22_Workshop/butler.pdf)
-- Radha Mastandrea (DSECOP Fellow, University of California Berkeley, Lawrence Berkeley National Laboratory): []()
+- Radha Mastandrea (DSECOP Fellow, University of California Berkeley, Lawrence Berkeley National Laboratory): [Introduction to Data Processing](./../assets/22_Workshop/mastandrea.pdf)
 - Aaron Gilad Kusne (NIST): [Teaching Machine Learning](./../assets/22_Workshop/kusne.pdf)
 - Sebastian Atalla (DSECOP Fellow, University of North Carolina at Chapel Hill): [Frequency Decomposition of NMR Spectra](./../assets/22_Workshop/atalla.pdf)
 - Cunwei Fan (DSECOP Fellow, University of Illinois at Urbana Champaign): [Spectral Clustering Method
@@ -25,7 +25,16 @@ with Physics](./../assets/22_Workshop/fan.pdf)
 
 #### Day 2, June 23
 
+- Wolfgang Losert (University of Maryland): 
+- Marilena Longobardi (University of Basel): [European landscape on Data Science](./../assets/22_Workshop/longobardi.pdf)
+- William Ratcliff (NIST, University of Maryland): [Roundtable: Data Science Tools](https://docs.google.com/presentation/d/1MU7Xo5NMrxprJ4LCMuN-PKk_TfxgrWwmM09Mduukifw/)
+- Sanha Cheong (Stanford University): [Developing & Teaching Statistics Course for Physics Students](./../assets/22_Workshop/cheong.pdf)
+- Robert Craig (University of Virginia): [Introduction to Python for Scientist and Engineers](./../assets/22_Workshop/group.pdf)
 - Ivo Dinov (University of Michigan): [Integration of Data Science into the STEM Curricula](./../assets/22_Workshop/dinov.pdf)
+- Karen Leighly (The University of Oklahoma): 
+- Jorge Munoz (The University of Texas at El Paso):
+- Mark Neubauer (University of Illinois at Urbana-Champaign):
+- Mohammad Soltanieh-ha (Boston University): [Discussion: Preparation/Prerequisites](https://docs.google.com/presentation/d/1nbfzdZCUsOJMdmyk0CgzElDgQQAH87fpRSG6uePMf5I/edit#slide=id.g1363b42fc1c_1_0)
 
 
 ## DSECOP June 2022 Workshop Announcement
