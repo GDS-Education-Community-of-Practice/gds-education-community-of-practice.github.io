@@ -8,7 +8,7 @@ permalink: /workshops/
 ## DSECOP June 2022 Workshop Slides
 Below are the slides from our first workshop on incorporating data science in physics curriculum listed in the order of the [schedule](./../assets/22_Workshop/DSECOP22_Schedule.pdf).
 
-#### Day 1, June 22
+### Day 1, June 22
 
 - William Ratcliff (NIST & UMD): [Opening Remarks](./../assets/22_Workshop/ratcliff.pdf)
 - Mohammad Soltanieh-Ha (Boston University): [Overview of Fellows’ Activity](../assets/22_Workshop/soltanieh-ha.pdf)
@@ -23,7 +23,7 @@ with Physics](./../assets/22_Workshop/fan.pdf)
 - Alexis Knaub (American Association of Physics Teachers): [Challenges and Pedagogy/Curriculum](./../assets/22_Workshop/knaub.pdf)
 
 
-#### Day 2, June 23
+### Day 2, June 23
 
 - Wolfgang Losert (University of Maryland): 
 - Marilena Longobardi (University of Basel): [European landscape on Data Science](./../assets/22_Workshop/longobardi.pdf)
@@ -36,6 +36,14 @@ with Physics](./../assets/22_Workshop/fan.pdf)
 Education in the Physics Department at the University of Illinois](./../assets/22_Workshop/neubauer.pdf)
 - Deborah Roudebush (QuarkNet): [A Research Based Approach for Infusing 21st Century Physics into the High School Classroom](./../assets/22_Workshop/roudebush.pdf)
 - Mohammad Soltanieh-ha (Boston University): [Discussion: Preparation/Prerequisites](https://docs.google.com/presentation/d/1nbfzdZCUsOJMdmyk0CgzElDgQQAH87fpRSG6uePMf5I/edit#slide=id.g1363b42fc1c_1_0)
+
+
+#### Additional links and resources
+
+**Case Study: Predicting Galaxy Spins** (from Ivo Dinov)
+
+- [Data Science and Predictive Analytics (DSPA)](https://socr.umich.edu/DSPA2/DSPA2_notes/05_SupervisedClassification.html) textbook: <https://www.socr.umich.edu/people/dinov/courses/DSPA_notes/06_LazyLearning_kNN.html#4_Case_Study:_Predicting_Galaxy_Spins>
+- <https://umich.instructure.com/courses/38100/files/folder/Case_Studies/22_SDSS_GalaxySpins_Case_Study>
 
 
 ## DSECOP June 2022 Workshop Announcement
