@@ -37,7 +37,7 @@ Education in the Physics Department at the University of Illinois](./../assets/2
 - Mohammad Soltanieh-ha (Boston University): [Discussion: Preparation/Prerequisites](https://docs.google.com/presentation/d/1nbfzdZCUsOJMdmyk0CgzElDgQQAH87fpRSG6uePMf5I/edit#slide=id.g1363b42fc1c_1_0)
 
 ### Day 3, June 23
-- [Unconference slides](./../assets/22_Workshop/unconference.pdf)
+- Unconference: [Dinov and Cheong](./../assets/22_Workshop/dinov_cheong.pdf), [Letchworth-Weaver and Rivera](./../assets/22_Workshop/letchworth-weaver_rivera.pdf)
 
 
 #### Additional links and resources
