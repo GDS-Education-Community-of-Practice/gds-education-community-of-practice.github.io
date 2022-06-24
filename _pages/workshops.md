@@ -25,7 +25,6 @@ with Physics](./../assets/22_Workshop/fan.pdf)
 
 ### Day 2, June 23
 
-- Wolfgang Losert (University of Maryland): 
 - Marilena Longobardi (University of Basel): [European landscape on Data Science](./../assets/22_Workshop/longobardi.pdf)
 - William Ratcliff (NIST, University of Maryland): [Roundtable: Data Science Tools](https://docs.google.com/presentation/d/1MU7Xo5NMrxprJ4LCMuN-PKk_TfxgrWwmM09Mduukifw/)
 - Sanha Cheong (Stanford University): [Developing & Teaching Statistics Course for Physics Students](./../assets/22_Workshop/cheong.pdf)
@@ -36,6 +35,9 @@ with Physics](./../assets/22_Workshop/fan.pdf)
 Education in the Physics Department at the University of Illinois](./../assets/22_Workshop/neubauer.pdf)
 - Deborah Roudebush (QuarkNet): [A Research Based Approach for Infusing 21st Century Physics into the High School Classroom](./../assets/22_Workshop/roudebush.pdf)
 - Mohammad Soltanieh-ha (Boston University): [Discussion: Preparation/Prerequisites](https://docs.google.com/presentation/d/1nbfzdZCUsOJMdmyk0CgzElDgQQAH87fpRSG6uePMf5I/edit#slide=id.g1363b42fc1c_1_0)
+
+### Day 3, June 23
+- [Unconference slides](./../assets/22_Workshop/unconference.pdf)
 
 
 #### Additional links and resources
