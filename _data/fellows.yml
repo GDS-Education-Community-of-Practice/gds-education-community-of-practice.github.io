@@ -29,7 +29,7 @@
   photo: fan.jpg
   info: Deep learning methods to analyze leptons from data produced by hadron collider and Monte Carlo simulation from CERN
   bio: I am a fifth year Ph.D. candidate at University of Illinois at Urbana Champaign. I come from China and have been in the physics department of the university for eight years. During these years, I have tried various fields in physics, from computational physics to theoretical string theory and finally landing in high energy experiment.  The high energy experiment projects are fascinating because I can learn and utilize data driven techniques to model physics through experimental results without knowing the true hidden physics.  Now, I am using deep learning methods to analyze leptons from data produced by hadron collider and Monte Carlo simulation from CERN. Besides, in the free time, I also participated some internship programs in the industry, where I gained experience and practical techniques in solving problems by machine learning methods.
-  website: 
+  website: https://fancunwei95.github.io/
   email: cfan11@illinois.edu
   aff: University of Illinois at Urbana Champaign
   title: PhD Student
@@ -38,7 +38,7 @@
   photo: mastandrea.jpeg
   info: Trains neural networks to recognize the physical symmetries of particle collision events and use these symmetries for classification tasks. 
   bio: I am a first-year PhD student in Physics at UC Berkeley. My research interests are in machine learning for fundamental physics. Specifically, I use neural networks to explore the physical symmetries of particle collision events and then capitalize on these symmetries when performing classification tasks. I did my undergraduate degree at MIT and completed a masters in physics at the University of Cambridge (where I investigated Lorentz-symmetry violating particle collisions, in contrast to my current work!). Outside of the lab, I enjoy distance running and playing board games.
-  website: 
+  website: https://rmastand.github.io/
   email: rmastand@berkeley.edu
   aff: UC Berkeley, Lawrence Berkeley National Laboratory
   title: PhD Student
