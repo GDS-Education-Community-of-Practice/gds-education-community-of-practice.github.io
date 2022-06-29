@@ -5,7 +5,12 @@ excerpt: "DSECOP: Workshops"
 sitemap: false
 permalink: /workshops/
 ---
-## DSECOP June 2022 Workshop Slides
+# DSECOP June 2022 Workshop
+Thanks to all participants who attended the first DSECOP workshop! Here's a group photo taken on the second day.
+
+![DSECOP Participants](/assets/22_Workshop/DSECOP22WorkshopPhoto_Small.jpeg){:height="300px" width="400px"}
+
+## Slides
 Below are the slides from our first workshop on incorporating data science in physics curriculum listed in the order of the [schedule](./../assets/22_Workshop/DSECOP22_Schedule.pdf).
 
 ### Day 1, June 22
@@ -50,7 +55,7 @@ Unconference:
 - <https://umich.instructure.com/courses/38100/files/folder/Case_Studies/22_SDSS_GalaxySpins_Case_Study>
 
 
-## DSECOP June 2022 Workshop Announcement
+## Announcement
 
 We are delighted to announce the first workshop by the Data Science Education Community of Practice (DSECOP) to be held on June 22–24, 2022, at the Institute for Physical Science and Technology in College Park, MD.
 
