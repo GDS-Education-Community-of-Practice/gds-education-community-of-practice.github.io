@@ -29,9 +29,9 @@ Jamie Antonelli is a Senior Manager of Data Science at Blue Cross Blue Shield of
 <div class="col-sm-6 clearfix">
  <div class="well">
   <pubtit>Tony Chu</pubtit>
-  <img src="/images/eventpic/chu.jpeg" class="img-responsive" width="33%" style="float: left" />
+  <img src="/images/eventpic/chu.png" class="img-responsive" width="33%" style="float: left" />
   <p>
-
+Tony Chu will be serving as an Artificial Intelligence Technical Advisor at the Johns Hopkins University Applied Physics Laboratory. He has led a variety of data science efforts in both the government and commercial sectors while working at ECS Federal, Citibank, Accenture, and the Center for Naval Analyses. Prior to that, he was a postdoctoral researcher in the field of numerical relativity at Princeton University and the Canadian Institute for Theoretical Astrophysics. He holds a PhD in theoretical physics from Caltech, and a BA in physics from Cornell University.
   </p>
  </div>
 </div>
