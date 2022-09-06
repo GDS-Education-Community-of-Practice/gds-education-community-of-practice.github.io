@@ -10,13 +10,13 @@ permalink: /webinars/
 
 #### September 14, 2022, 12:00 pm
 
-One of the most exciting career paths for physicists today is data science. Skills acquired in physics training are highly relevant for the daily tasks of a data scientist. In the next DSECOP webinar, our [panelists](#22-september-panelists) will discuss their experience as data scientists in private industry and how their physics education prepared them for their careers. The discussion will also highlight skills and knowledge undergraduate physics majors need for data science careers.
+One of the most exciting career paths for physicists today is data science. Skills acquired in physics training are highly relevant for the daily tasks of a data scientist. In the next DSECOP webinar, our [panelists](#14-september-panelists) will discuss their experience as data scientists in private industry and how their physics education prepared them for their careers. The discussion will also highlight skills and knowledge undergraduate physics majors need for data science careers.
 
 The webinar will take place on Wednesday, Sep 14th, at 12:00 pm. The panelists are [Jamie Antonelli](https://www.linkedin.com/in/jamie-antonelli) from Blue Cross Blue Shield, [Tony Chu](https://www.linkedin.com/in/toekneechew/) from ECS, [Nima Dehmamy](https://www.linkedin.com/in/nima-dehmamy-57770a4a/) from IBM Research, and [Jennifer Hobbs](https://scholar.google.com/citations?user=zeWhseAAAAAJ) from Intelinair.
 
 Please register [here](https://umd.zoom.us/meeting/register/tJIrcOCqrzMpHdCvM-z6bmNpfYo5fztG-u4d).
 
-<div class="row"><a name="22-september-panelists"></a>
+<div class="row"><a name="14-september-panelists"></a>
 
 <div class="col-sm-6 clearfix">
  <div class="well">
