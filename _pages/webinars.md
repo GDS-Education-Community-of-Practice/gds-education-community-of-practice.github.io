@@ -8,13 +8,58 @@ permalink: /webinars/
 
 ## Data Science Career Paths in Industry for Physicists <a name="webinar"></a>
 
-#### September 14, 2022, 12:00 pm
+#### November 16, 2022, 12:00 pm
 
 The [panelists](#22-september-panelists) will talk about their experience as data scientists in private industry and discuss how the physics education prepared them for their careers. The discussion will also highlight  skills and knowledge undergraduate physics majors need for data science careers."
 
 The webinar will take place on Wednesday, Sep 14th, at 12:00 pm. The panelists are [Jamie Antonelli](https://www.linkedin.com/in/jamie-antonelli) from Blue Cross Blue Shield, [Tony Chu](https://www.linkedin.com/in/toekneechew/) from ECS, [Nima Dehmamy](https://www.linkedin.com/in/nima-dehmamy-57770a4a/) from IBM Research, and [Jennifer Hobbs](https://scholar.google.com/citations?user=zeWhseAAAAAJ) from Intelinair.
 
 <div class="row"><a name="22-september-panelists"></a>
+
+<div class="col-sm-4 clearfix">
+ <div class="well">
+  <pubtit>Aishik Ghosh</pubtit>
+  <img src="/images/eventpic/ghosh.jpg" class="img-responsive" width="33%" style="float: left" />
+  <p>
+  </p>
+ </div>
+</div>
+
+<div class="col-sm-4 clearfix">
+ <div class="well">
+  <pubtit>Ian René Solano-Kamaiko</pubtit>
+  <img src="/images/eventpic/solano-kamaiko.jpg" class="img-responsive" width="33%" style="float: left" />
+  <p>
+Ian René Solano-Kamaiko is a Ph.D. student in Information Science at Cornell University working with Dr. Nicola Dell and Dr. Aditya Vashistha. His research is focused on building and evaluating computing technologies that aim to improve the lives of underserved and marginalized populations. In particular, he is interested in community and in-home healthcare, automation and the future of work, and climate resilience. Prior to attending Cornell, Ian received an M.S. in Computer Science from New York University where he was a member of the Center for Responsible AI under the supervision of Dr. Julia Stoyanovich.
+  </p>
+ </div>
+</div>
+
+<div class="col-sm-4 clearfix">
+ <div class="well">
+  <pubtit>Savannah Thais</pubtit>
+  <img src="/images/eventpic/thais.jpg" class="img-responsive" width="33%" style="float: left" />
+  <p>
+
+  </p>
+ </div>
+</div>
+
+</div>
+
+<p> &nbsp; </p>
+
+
+
+## Data Science Career Paths in Industry for Physicists <a name="webinar"></a>
+
+#### September 14, 2022, 12:00 pm
+
+The [panelists](#14-september-panelists) will talk about their experience as data scientists in private industry and discuss how the physics education prepared them for their careers. The discussion will also highlight  skills and knowledge undergraduate physics majors need for data science careers."
+
+The webinar will take place on Wednesday, Sep 14th, at 12:00 pm. The panelists are [Jamie Antonelli](https://www.linkedin.com/in/jamie-antonelli) from Blue Cross Blue Shield, [Tony Chu](https://www.linkedin.com/in/toekneechew/) from ECS, [Nima Dehmamy](https://www.linkedin.com/in/nima-dehmamy-57770a4a/) from IBM Research, and [Jennifer Hobbs](https://scholar.google.com/citations?user=zeWhseAAAAAJ) from Intelinair.
+
+<div class="row"><a name="14-september-panelists"></a>
 
 <div class="col-sm-6 clearfix">
  <div class="well">
