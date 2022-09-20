@@ -6,28 +6,29 @@ sitemap: false
 permalink: /webinars/
 ---
 
-## Data Science Career Paths in Industry for Physicists <a name="webinar"></a>
+## Data Science Education, Physics, and Ethics <a name="webinar"></a>
 
 #### November 16, 2022, 12:00 pm
 
-One of the most exciting career paths for physicists today is data science. Skills acquired in physics training are highly relevant for the daily tasks of a data scientist. In the next DSECOP webinar, our [panelists](#14-september-panelists) will discuss their experience as data scientists in private industry and how their physics education prepared them for their careers. The discussion will also highlight skills and knowledge undergraduate physics majors need for data science careers.
+From catapults to nuclear bombs, physicists played a central role in new technologies that raise moral questions. With the participation of physicists in the rise of data science and machine learning, we need to think carefully about how to incorporate ethics into the data science education for physicists.
 
-The webinar will take place on Wednesday, Sep 14th, at 12:00 pm. The panelists are [Jamie Antonelli](https://www.linkedin.com/in/jamie-antonelli) from Blue Cross Blue Shield, [Tony Chu](https://www.linkedin.com/in/toekneechew/) from ECS, [Nima Dehmamy](https://www.linkedin.com/in/nima-dehmamy-57770a4a/) from IBM Research, and [Jennifer Hobbs](https://scholar.google.com/citations?user=zeWhseAAAAAJ) from Intelinair.
+ In the next DSECOP webinar, our [panelists](#16-november-panelists) will discuss the ethical dimension of data science from a physicist's point of view. The webinar will take place on November 16, at 12:00 pm. The panelists are [Aishik Ghosh](https://www.physics.lbl.gov/directory/staff-members/aishik-ghosh/) from UC Irvine and Berkeley Lab, [Ian René Solano-Kamaiko](https://iansolano.com/) from Cornell University, and [Savannah Thais](https://datascience.columbia.edu/people/savannah-thais/) from Columbia University.
 
-Please register [here](https://umd.zoom.us/meeting/register/tJIrcOCqrzMpHdCvM-z6bmNpfYo5fztG-u4d).
+<!-- Please register [here](https://umd.zoom.us/meeting/register/tJIrcOCqrzMpHdCvM-z6bmNpfYo5fztG-u4d). -->
 
-<div class="row"><a name="14-september-panelists"></a>
+<div class="row"><a name="16-november-panelists"></a>
 
-<div class="col-sm-4 clearfix">
+<div class="col-sm-6 clearfix">
  <div class="well">
   <pubtit>Aishik Ghosh</pubtit>
-  <img src="/images/eventpic/ghosh.jpg" class="img-responsive" width="33%" style="float: left" />
+  <img src="/images/eventpic/ghosh.jpeg" class="img-responsive" width="33%" style="float: left" />
   <p>
+Aishik Ghosh is a researcher in artificial intelligence for physics based in University of California Irvine and also affiliated with Berkeley Lab at University of California Berkeley. He has worked on risk assessment, bias mitigation, interpretability as well as synthetic data generation in the context robust and generalisable artificial intelligence models for particle physics at the Large Hadron Collider, CERN. He has advocated for stronger open data policies and more public engagement in a report by the Early Career Researchers group mandated by the European Committee for Future Accelerators (ECFA). He is interested in the economic assessment of AI in enhancing scientific productivity, and public policy to ensure interpretable, auditable and inclusive AI.
   </p>
  </div>
 </div>
 
-<div class="col-sm-4 clearfix">
+<div class="col-sm-6 clearfix">
  <div class="well">
   <pubtit>Ian René Solano-Kamaiko</pubtit>
   <img src="/images/eventpic/solano-kamaiko.jpg" class="img-responsive" width="33%" style="float: left" />
@@ -36,8 +37,11 @@ Ian René Solano-Kamaiko is a Ph.D. student in Information Science at Cornell Un
   </p>
  </div>
 </div>
+</div>
 
-<div class="col-sm-4 clearfix">
+<div class="row">
+
+<div class="col-sm-6 clearfix">
  <div class="well">
   <pubtit>Savannah Thais</pubtit>
   <img src="/images/eventpic/thais.jpg" class="img-responsive" width="33%" style="float: left" />
@@ -58,9 +62,11 @@ Savannah Thais is a Research Scientist at the Columbia University Data Science I
 
 #### September 14, 2022, 12:00 pm
 
-The [panelists](#14-september-panelists) will talk about their experience as data scientists in private industry and discuss how the physics education prepared them for their careers. The discussion will also highlight  skills and knowledge undergraduate physics majors need for data science careers."
+The webinar took place on Wednesday, September 14, at 12:00 pm. The [panelists](#14-september-panelists) were [Jamie Antonelli](https://www.linkedin.com/in/jamie-antonelli) from Blue Cross Blue Shield, [Tony Chu](https://www.linkedin.com/in/toekneechew/) from ECS, [Nima Dehmamy](https://www.linkedin.com/in/nima-dehmamy-57770a4a/) from IBM Research, and [Jennifer Hobbs](https://scholar.google.com/citations?user=zeWhseAAAAAJ) from Intelinair.
 
-The webinar will take place on Wednesday, Sep 14th, at 12:00 pm. The panelists are [Jamie Antonelli](https://www.linkedin.com/in/jamie-antonelli) from Blue Cross Blue Shield, [Tony Chu](https://www.linkedin.com/in/toekneechew/) from ECS, [Nima Dehmamy](https://www.linkedin.com/in/nima-dehmamy-57770a4a/) from IBM Research, and [Jennifer Hobbs](https://scholar.google.com/citations?user=zeWhseAAAAAJ) from Intelinair.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HQHMicer4XQ" title="Webinar recording" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+The [panelists](#14-september-panelists) talked about their experience as data scientists in private industry and discussed how the physics education prepared them for their careers. The discussion also highlighted skills and knowledge undergraduate physics majors need for data science careers.
 
 <div class="row"><a name="14-september-panelists"></a>
 
