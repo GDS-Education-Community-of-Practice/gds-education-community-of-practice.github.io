@@ -68,6 +68,8 @@ The webinar took place on Wednesday, September 14, at 12:00 pm. The [panelists](
 
 The [panelists](#14-september-panelists) talked about their experience as data scientists in private industry and discussed how the physics education prepared them for their careers. The discussion also highlighted skills and knowledge undergraduate physics majors need for data science careers.
 
+Due to technical difficulties, Jamie Antonelli was not able to share his slides during the webinar. You can find his slides [here](/assets/Antonelli_Webinar_Sep22.pdf).
+
 <div class="row"><a name="14-september-panelists"></a>
 
 <div class="col-sm-6 clearfix">
