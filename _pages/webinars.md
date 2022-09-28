@@ -6,7 +6,7 @@ sitemap: false
 permalink: /webinars/
 ---
 
-## Data Science Education, Physics, and Ethics <a name="webinar"></a>
+## Data Science Education, Physics, and Ethics <a name="webinar-nov22"></a>
 
 #### November 16, 2022, 12:00 pm
 
@@ -58,7 +58,7 @@ Savannah Thais is a Research Scientist at the Columbia University Data Science I
 
 
 
-## Data Science Career Paths in Industry for Physicists <a name="webinar"></a>
+## Data Science Career Paths in Industry for Physicists <a name="webinar-sep22"></a>
 
 #### September 14, 2022, 12:00 pm
 
@@ -120,7 +120,7 @@ Dr. Jennifer Hobbs is the Director of Machine Learning at Intelinair, an ag-tech
 
 <p> &nbsp; </p>
 
-## Data science in physics courses at undergraduate-focused departments 
+## Data science in physics courses at undergraduate-focused departments <a name="webinar-may22"></a>
 
 #### May 25, 2022, 1:00 pm
 
