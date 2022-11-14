@@ -10,22 +10,22 @@ permalink: /webinars/
 
 ## Data Science Education, Physics, and Ethics 
 
-#### November 16, 2022, 12:00 pm
+#### December 7, 2022, 12:00 pm
 
 From catapults to nuclear bombs, physicists played a central role in new technologies that raise moral questions. With the participation of physicists in the rise of data science and machine learning, we need to think carefully about how to incorporate ethics into the data science education for physicists.
 
- In the next DSECOP webinar, our [panelists](#16-november-panelists) will discuss the ethical dimension of data science from a physicist's point of view. The webinar will take place on November 16, at 12:00 pm. The panelists are [Aishik Ghosh](https://www.physics.lbl.gov/directory/staff-members/aishik-ghosh/) from UC Irvine and Berkeley Lab, [Ian René Solano-Kamaiko](https://iansolano.com/) from Cornell University, and [Savannah Thais](https://datascience.columbia.edu/people/savannah-thais/) from Columbia University.
+ In the next DSECOP webinar, our [panelists](#7-december-panelists) will discuss the ethical dimension of data science from a physicist's point of view. The webinar will take place on December 7, at 12:00 pm EST. The panelists are [Aishik Ghosh](https://www.physics.lbl.gov/directory/staff-members/aishik-ghosh/) from UC Irvine and Berkeley Lab, [Ian René Solano-Kamaiko](https://iansolano.com/) from Cornell University, and [Savannah Thais](https://datascience.columbia.edu/people/savannah-thais/) from Columbia University.
 
-<!-- Please register [here](https://umd.zoom.us/meeting/register/tJIrcOCqrzMpHdCvM-z6bmNpfYo5fztG-u4d). -->
+Please register [here](https://umd.zoom.us/meeting/register/tJYtd-6hrjkuHdTVVoq1Z9GOpagFoVPrhVpd).
 
-<div class="row"><a name="16-november-panelists"></a>
+<div class="row"><a name="7-december-panelists"></a>
 
 <div class="col-sm-6 clearfix">
  <div class="well">
   <pubtit>Aishik Ghosh</pubtit>
-  <img src="/images/eventpic/ghosh.jpeg" class="img-responsive" width="33%" style="float: left" />
+  <!-- <img src="/images/eventpic/ghosh.jpeg" class="img-responsive" width="33%" style="float: left" /> -->
   <p>
-Aishik Ghosh is a researcher in artificial intelligence for physics based in University of California Irvine and also affiliated with Berkeley Lab at University of California Berkeley. He has worked on risk assessment, bias mitigation, interpretability as well as synthetic data generation in the context robust and generalisable artificial intelligence models for particle physics at the Large Hadron Collider, CERN. He has advocated for stronger open data policies and more public engagement in a report by the Early Career Researchers group mandated by the European Committee for Future Accelerators (ECFA). He is interested in the economic assessment of AI in enhancing scientific productivity, and public policy to ensure interpretable, auditable and inclusive AI.
+Aishik Ghosh is a researcher at UC Irvine and fellow at Lawrence Berkeley National Laboratory working at the intersection of artificial intelligence (AI) and fundamental physics. His research has direct impact on questions on AI bias, fairness, uncertainty quantification and the statistical evaluation of AI models. He has been a strong advocate for including discussions on AI ethics and the limitations of the quantitative methods in data science curricula. As part of a network of AI experts, he has worked with the Organization for Economic Co-operation and Development (OECD) to develop a framework to compare tools for trustworthy AI systems, and continues to work with them on policy related to science and AI. He is concerned about democratic accessibility of technological resources and education required to equitably share the benefits of AI in our society.
   </p>
  </div>
 </div>
