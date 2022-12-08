@@ -14,6 +14,8 @@ permalink: /webinars/
 
 From catapults to nuclear bombs, physicists played a central role in new technologies that raise moral questions. With the participation of physicists in the rise of data science and machine learning, we need to think carefully about how to incorporate ethics into the data science education for physicists.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yKpjnvL5sWY" title="Webinar recording" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
  Our [panelists](#7-december-panelists) discussed the ethical dimension of data science from a physicist's point of view. The webinar took place on December 7, at 12:00 pm EST. The panelists were [Aishik Ghosh](https://www.physics.lbl.gov/directory/staff-members/aishik-ghosh/) from UC Irvine and Berkeley Lab, [Ian René Solano-Kamaiko](https://iansolano.com/) from Cornell University, and [Savannah Thais](https://datascience.columbia.edu/people/savannah-thais/) from Columbia University.
 
 Slides of the talks are available by [Aishik Ghosh](/assets/Ghosh_Webinar_Dec22.pdf) and [Ian René Solano-Kamaiko](/assets/Solano-Kamaiko_Webinar_Dec22.pdf).
