@@ -18,7 +18,7 @@ From catapults to nuclear bombs, physicists played a central role in new technol
 
  Our [panelists](#7-december-panelists) discussed the ethical dimension of data science from a physicist's point of view. The webinar took place on December 7, at 12:00 pm EST. The panelists were [Aishik Ghosh](https://www.physics.lbl.gov/directory/staff-members/aishik-ghosh/) from UC Irvine and Berkeley Lab, [Ian René Solano-Kamaiko](https://iansolano.com/) from Cornell University, and [Savannah Thais](https://datascience.columbia.edu/people/savannah-thais/) from Columbia University.
 
-Slides of the talks are available by [Aishik Ghosh](/assets/Ghosh_Webinar_Dec22.pdf) and [Ian René Solano-Kamaiko](/assets/Solano-Kamaiko_Webinar_Dec22.pdf).
+Slides of the talks are available by [Aishik Ghosh](/assets/Ghosh_Webinar_Dec22.pdf), [Savannah Thais](/assets/Thais_Webinar_Dec22.pdf), and [Ian René Solano-Kamaiko](/assets/Solano-Kamaiko_Webinar_Dec22.pdf).
 
 <div class="row"><a name="7-december-panelists"></a>
 
