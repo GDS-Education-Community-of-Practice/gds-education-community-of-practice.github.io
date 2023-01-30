@@ -26,12 +26,15 @@ We aim to build a community of researchers, practitioners, and learners to engag
 <div>
 {:/}
 
-## Resources on Data Science Education
-
-- [Edison Data Science Framework](https://edison-project.eu/edison/edison-data-science-framework-edsf/) 
+## Resources on Learning Python
 - [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/) by [Jake VanderPlas](http://vanderplas.com/).
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) by [Jake VanderPlas](http://vanderplas.com/).
 - [Plotting and Programming in Python](http://swcarpentry.github.io/python-novice-gapminder/) from [Software Carpentry](https://software-carpentry.org/).
+
+
+## Resources on Data Science Education
+
+- [Edison Data Science Framework](https://edison-project.eu/edison/edison-data-science-framework-edsf/) 
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/resources/Slack_QR.png" class="img-responsive" width="18%" style="float: left" />
 <img src="{{ site.url }}{{ site.baseurl }}/images/resources/Social.png" class="img-responsive" width="32%" style="float: left" />
