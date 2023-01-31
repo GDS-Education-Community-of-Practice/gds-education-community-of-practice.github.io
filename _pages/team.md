@@ -38,7 +38,7 @@ permalink: /team/
 </div>
 {% endif %}
 
-# Consultant
+# Editor-in-Chief
 
 <div class="row">
 
@@ -49,6 +49,20 @@ permalink: /team/
   <br>Email: <a href="mailto:msoltani@bu.edu">msoltani@bu.edu</a>
   <br>Web: <a href="https://www.bu.edu/questrom/profile/mohammad-soltanieh-ha/">https://www.bu.edu/questrom/profile/mohammad-soltanieh-ha/</a>
   <br>Affiliation: Questrom School of Business at Boston University
+</div>
+</div>
+
+# Reviewer
+
+<div class="row">
+
+<div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/hale.jpg" class="img-responsive" width="36%" style="float: left" />
+  <h4>Jacob Hale</h4>
+  <i> Applying physical laws and theories to understand how viruses pack DNA, how bacteria respond to osmotic shock, and how membrane proteins in human cancer cells function.</i>
+  <br>Email: <a href="mailto:jacobhale@depauw.edu">jacobhale@depauw.edu</a>
+  <br>Web: <a href="https://www.depauw.edu/academics/departments-programs/physics-astronomy/faculty-staff/faculty-staff-websites/j-hale/">https://www.depauw.edu/academics/departments-programs/physics-astronomy/faculty-staff/faculty-staff-websites/j-hale/</a>
+  <br>Affiliation: DePauw University
 </div>
 </div>
 
