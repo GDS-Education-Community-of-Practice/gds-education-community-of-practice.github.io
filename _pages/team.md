@@ -66,7 +66,42 @@ permalink: /team/
 </div>
 </div>
 
+# 2023 Fellows
+
+{% assign number_printed = 0 %}
+{% for member in site.data.fellows_2023 %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="33%" style="float: left" />
+  <h4>{{ member.name }}</h4>
+  <i>{{ member.info }} </i>
+  <br>Email: <{{ member.email }}>
+  <br> Web: {% if member.website %} <{{ member.website }}> {% else %} <a href="{{ site.url }}{{ site.baseurl }}/team#fellows">DSECOP Fellows</a> {% endif %}
+  <br>Title: {{ member.title }}
+  <br>Affiliation: {{ member.aff }}
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
 # 2022 Fellows
+
 {% assign number_printed = 0 %}
 {% for member in site.data.fellows %}
 

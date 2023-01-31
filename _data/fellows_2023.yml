@@ -1,0 +1,17 @@
+- name: Julie Butler
+  photo: butler_2023.jpg
+  info: Using machine learning to extend the range of theoretical many-body calculations in regards to infinite matter
+  bio: 
+  website: https://juliebutler.blog
+  email: butle222@msu.edu
+  aff: Michigan State University until August 1; University of Mount Union from August 1.
+  title: PhD Student until August 1; Assistant Professor of Physics from August 1.
+
+- name: Connor Robertson
+  photo: robertson.jpg
+  info: Modeling for active nematic fluids and bacterial growth directly from experimental observations via data-driven and machine learning approaches
+  bio: 
+  website: https://cnrrobertson.github.io
+  email: cjr59@njit.edu
+  aff: New Jersey Institute of Technology
+  title: PhD Student
