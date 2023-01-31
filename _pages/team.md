@@ -38,8 +38,21 @@ permalink: /team/
 </div>
 {% endif %}
 
+# Consultant
 
-# Fellows
+<div class="row">
+
+<div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/soltanieh-ha.jpg" class="img-responsive" width="36%" style="float: left" />
+  <h4>Mohammad Soltanieh-ha</h4>
+  <i> Strongly correlated electronic systems in low dimensions, computer vision in cancer diagnosis, high-performance computing. Faculty Expert at Google Cloud.</i>
+  <br>Email: <a href="mailto:msoltani@bu.edu">msoltani@bu.edu</a>
+  <br>Web: <a href="https://www.bu.edu/questrom/profile/mohammad-soltanieh-ha/">https://www.bu.edu/questrom/profile/mohammad-soltanieh-ha/</a>
+  <br>Affiliation: Questrom School of Business at Boston University
+</div>
+</div>
+
+# 2022 Fellows
 {% assign number_printed = 0 %}
 {% for member in site.data.fellows %}
 
