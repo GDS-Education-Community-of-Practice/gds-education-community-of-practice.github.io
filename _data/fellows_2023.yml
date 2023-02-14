@@ -1,11 +1,20 @@
 - name: Julie Butler
-  photo: butler_2023.jpg
+  photo: butler_2023.png
   info: Using machine learning to extend the range of theoretical many-body calculations in regards to infinite matter
   bio: 
   website: https://juliebutler.blog
   email: butle222@msu.edu
   aff: Michigan State University until August 1; University of Mount Union from August 1.
   title: PhD Student until August 1; Assistant Professor of Physics from August 1.
+
+- name: Ashley S. Dale
+  photo: dale.png
+  info: Spin crossover materials for novel low-power memory devices; latent feature extraction for trusted and explainable AI.
+  bio: 
+  website: https://daleas0120.github.io
+  email: daleas@iu.edu
+  aff: Indiana University–Purdue University Indianapolis
+  title: PhD Student
 
 - name: Richard Harry
   photo: harry.png
