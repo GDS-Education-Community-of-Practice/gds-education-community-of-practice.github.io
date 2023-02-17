@@ -35,6 +35,14 @@
   aff: New Jersey Institute of Technology
   title: PhD Student
 
+- name: Karan Shah
+  photo: shah.jpeg
+  info: Machine learning accelerated electronic structure simulations for matter under extreme conditions.
+  website: https://karan.sh
+  email: k.shah@hzdr.de
+  aff: Center for Advanced Systems Understanding, Helmholtz-Zentrum Dresden-Rossendorf, Görlitz, Germany
+  title: PhD Student
+  
 - name: Olivia Young
   photo: young.jpg
   info: Real-time FPGA and GPU Algorithm Development for Transient Hunting on the Long Wavelength Array 
