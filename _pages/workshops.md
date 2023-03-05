@@ -24,7 +24,7 @@ We anticipate this to be a highly interactive workshop, with plenty of time for 
 - Exploring the latest tools and technologies for data analysis in the physics classroom
 - Sharing successful case studies of data-driven physics instruction
 
-### Application
+### Apply
 
 
 We encourage all physics faculty teaching undergraduate physics to apply for this workshop. We also welcome graduate students, postdocs, industry professionals, and data science enthusiasts to apply. As with our first workshop, we expect in-person attendance as this event is highly interactive.
