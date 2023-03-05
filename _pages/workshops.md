@@ -8,7 +8,17 @@ permalink: /workshops/
 
 # DSECOP June 2023 Workshop Announcement
 
-The Data Science Education Community of Practice (DSECOP) is thrilled to announce its second workshop, which will be held from **June 26–28, 2023**, at the University of Maryland, College Park. Apply [here](https://forms.gle/iFLo7y8HXBmTdoxe8) by **April 7th at 5 PM ET**!
+  <table cellspacing="10">
+    <tr>
+      <td style="padding:0 30px 0 0;">
+        <p>The Data Science Education Community of Practice (DSECOP) is thrilled to announce its second workshop, which will be held from <strong>June 26–28, 2023</strong>, at the University of Maryland, College Park. Apply <a href="https://forms.gle/iFLo7y8HXBmTdoxe8">here</a> by <strong>April 7th at 5 PM ET</strong>!</p>
+      </td>
+      <td>
+        <img src="/assets/23_Workshop/qrcode_dsecop.org.png" alt="DSECOP June 2023 Workshop" height="100px" width="100px">
+      </td>
+    </tr>
+  </table>
+
 
 #### Goal
 This year, we aim to build on the success of our [first workshop](#dsecop-june-2022-workshop). Our primary focus is to continue developing a vibrant community of educators committed to incorporating data science into the undergraduate physics curriculum.
