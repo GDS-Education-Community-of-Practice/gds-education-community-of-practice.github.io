@@ -5,6 +5,34 @@ excerpt: "DSECOP: Workshops"
 sitemap: false
 permalink: /workshops/
 ---
+
+# DSECOP June 2023 Workshop Announcement
+
+The Data Science Education Community of Practice (DSECOP) is thrilled to announce its second workshop, which will be held from **June 26–28, 2023**, at the University of Maryland, College Park.
+
+### Goal
+
+This year, we aim to build on the success of our [first workshop](#dsecop-june-2022-workshop). Our primary focus is to continue developing a vibrant community of educators committed to incorporating data science into the undergraduate physics curriculum.
+
+To achieve this goal, we plan to have thought-provoking lectures and presentations from faculty members who are already engaged in this process. We will also be showcasing the latest contributions from fellows in our program who are developing innovative modules for inclusion in the existing curriculum. Additionally, we are excited to welcome participation from industry professionals who can bring their unique perspectives. 
+
+### Topics 
+
+We anticipate this to be a highly interactive workshop, with plenty of time for discussion and contributed talks from all participants. Some of the topics we plan to cover in this workshop include:
+- Strategies for integrating data science concepts into the undergraduate physics curriculum
+- Best practices for teaching data science to students with varying levels of experience
+- Exploring the latest tools and technologies for data analysis in the physics classroom
+- Sharing successful case studies of data-driven physics instruction
+
+### Application
+
+
+We encourage all physics faculty teaching undergraduate physics to apply for this workshop. We also welcome graduate students, postdocs, industry professionals, and data science enthusiasts to apply. As with our first workshop, we expect in-person attendance as this event is highly interactive.
+
+Because this workshop has limited space, we have an application process. Please fill in the  [application form](https://forms.gle/iFLo7y8HXBmTdoxe8) to be considered. All participants have a non-refundable $75 registration fee. Applications received by April 7th at 5 PM ET will receive full consideration for contributed talks and financial support. We will notify you by April 21st when we make our decision.
+
+---
+
 # DSECOP June 2022 Workshop
 Thanks to all participants who attended the first DSECOP workshop! Here's a group photo taken on the second day.
 
