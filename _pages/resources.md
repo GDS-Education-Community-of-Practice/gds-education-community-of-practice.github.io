@@ -30,6 +30,9 @@ We aim to build a community of researchers, practitioners, and learners to engag
 - [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/) by [Jake VanderPlas](http://vanderplas.com/).
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) by [Jake VanderPlas](http://vanderplas.com/).
 - [Plotting and Programming in Python](http://swcarpentry.github.io/python-novice-gapminder/) from [Software Carpentry](https://software-carpentry.org/).
+- [PHY 546: Python for Scientific Computing](https://sbu-python-class.github.io/python-science/Introduction.html)
+- [AST 390: Computational Astrophysics](https://zingale.github.io/computational_astrophysics/intro.html)
+
 
 
 ## Resources on Data Science Education
