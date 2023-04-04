@@ -56,7 +56,6 @@ We are a collaboration between UMD, NIST, and many other places.
 <h3>Funding</h3>
 
 <figure>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/IF_logo.jpg" style="width: 100px">&nbsp;&nbsp;
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/APSLogo-RGB.png" style="height: 120px">&nbsp;&nbsp;
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/IPST.png" style="width: 300px">&nbsp;&nbsp;&nbsp;
   <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NIST.png" style="width: 180px"> -->
