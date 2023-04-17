@@ -35,7 +35,7 @@ We anticipate this to be a highly interactive workshop, with plenty of time for 
 #### Apply
 We encourage all physics faculty teaching undergraduate physics to apply for this workshop. We also welcome graduate students, postdocs, industry professionals, and data science enthusiasts to apply. As with our first workshop, we expect in-person attendance as this event is highly interactive.
 
-Because this workshop has limited space, we have an application process. Please fill in the  [application form](https://forms.gle/iFLo7y8HXBmTdoxe8) to be considered. All participants have a non-refundable $75 registration fee. Applications received by **April 7th at 5 PM ET** will receive full consideration for contributed talks and financial support. We will notify you by April 21st when we make our decision.
+Because this workshop has limited space, we have an application process. Please fill in the  [application form](https://forms.gle/iFLo7y8HXBmTdoxe8) to be considered. All participants have a non-refundable $75 registration fee. Applications received by **April 14th at 5 PM ET** will receive full consideration for contributed talks and financial support. We will notify you by April 21st when we make our decision.
 
 ---
 
