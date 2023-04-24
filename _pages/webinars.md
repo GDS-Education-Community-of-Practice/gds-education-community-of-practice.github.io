@@ -6,6 +6,66 @@ sitemap: false
 permalink: /webinars/
 ---
 
+<a name="webinar-may23"></a>
+
+## Data Science and Physics
+
+#### May 16, 2023, 1:00 pm
+
+<!-- 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yKpjnvL5sWY" title="Webinar recording" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ -->
+
+Data science has emerged as a crucial component of scientific research in recent years, and its applications are becoming increasingly widespread in many fields. As a result, integrating data science education into undergraduate physics teaching has become essential to prepare students for the demands of modern research.
+
+This webinar will discuss the importance of data science education in Physics and explore ways to incorporate it into undergraduate Physics courses. The webinar will be presented by Physics and Data Science experts, who will share their experiences and insights on this topic.
+
+Whether you are an undergraduate Physics student, an educator, or a researcher, this webinar is an excellent opportunity to learn about the importance of data science education in Physics and discover new ways to incorporate it into your teaching and research. 
+
+The webinar will take place on May 16, 2023, at 1:00 pm EST. The [panelists](#may-2023-panelists) are [Peter Alonzi](https://datascience.virginia.edu/people/peter-alonzi) from the University of Virginia, [James Hickman](https://sites.google.com/site/jameshickman6810/) from Georgetown University, and [Sarah Stone](https://csde.washington.edu/affiliates/stone-sarah/) from the University of Washington.
+
+Please register [here](https://umd.zoom.us/meeting/register/tJMocu-pqj8uHdFgqnGcGgwRHHujKCj1cr1d).
+
+<div class="row"><a name="may-2023-panelists"></a>
+
+<div class="col-sm-6 clearfix">
+ <div class="well">
+  <pubtit>Peter Alonzi</pubtit>
+  <img src="/images/eventpic/alonzi.jpg" class="img-responsive" width="33%" style="float: left" />
+  <p>
+Peter Alonzi is an Assistant Professor of Data Science at the University of Virginia's School of Data Science. With research interests that span particle physics and the intersection of mental health and the criminal justice system, he is an advocate for cross-disciplinary collaboration. He has partnered with the School of Engineering and Applied Science, the School of Medicine, and the Darden School of Business. Peter has been teaching at the University since 2005, and he has a Ph.D. in Physics from the University of Virginia. In addition to his teaching, Peter has worked at several laboratories, including Fermilab and Oak Ridge National Laboratory.
+  </p>
+ </div>
+</div>
+
+<div class="col-sm-6 clearfix">
+ <div class="well">
+  <pubtit>James Hickman</pubtit>
+  <img src="/images/eventpic/hickman.webp" class="img-responsive" width="33%" style="float: left" />
+  <p>
+James Hickman is an Assistant Teaching Professor in the Data Science and Analytics program at Georgetown University. He holds a Ph.D. in Computational-Physics from George Mason University and an M.S. in Engineering-Physics from GMU, and a double major in Physics and Applied Mathematics from Shippensburg University. His research experience includes applying classical atomistic simulations to material science and condensed matter physics problems. He was awarded an NRC postdoctoral fellowship at the National Institute of Standards and Technology (NIST) in Gaithersburg, Maryland in 2018. At NIST, he focused on improving interatomic bonding models for metallic and covalent systems using hybrid models of physically derived approaches and artificial neural networks.
+  </p>
+ </div>
+</div>
+
+<div class="row">
+
+<div class="col-sm-6 clearfix">
+ <div class="well">
+  <pubtit>Sarah Stone</pubtit>
+  <img src="/images/eventpic/stone.jpg" class="img-responsive" width="33%" style="float: left" />
+  <p>
+Sarah Stone is the Executive Director of the University of Washington eScience Institute, the campus hub for data-intensive discovery, where she oversees operations and planning; and designs and implements programs and partnerships. Stone is a co-founder and former director of the summer UW Data Science for Social Good (DSSG) program which partners student fellows from across the country with project leads from academia, government, and nonprofits to work on focused collaborative projects for societal benefit. Stone serves as a co-Director for the new Scientific Software Engineering Center (SSEC) at the University of Washington which is building a team of software engineers to work with domain researchers, computer scientists, data scientists, and others to develop high quality, sustainable software for cutting edge research purposes.
+  </p>
+ </div>
+</div>
+
+
+
+
+</div>
+
+
 <a name="webinar-dec22"></a>
 
 ## Data Science Education, Physics, and Ethics 
