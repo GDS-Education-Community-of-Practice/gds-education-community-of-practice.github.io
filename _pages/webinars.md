@@ -8,7 +8,7 @@ permalink: /webinars/
 
 <a name="webinar-may23"></a>
 
-## Data Science and Physics
+## Data Science Programs
 
 #### May 16, 2023, 1:00 pm
 
@@ -16,11 +16,9 @@ permalink: /webinars/
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yKpjnvL5sWY" title="Webinar recording" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  -->
 
-Data science has emerged as a crucial component of scientific research in recent years, and its applications are becoming increasingly widespread in many fields. As a result, integrating data science education into undergraduate physics teaching has become essential to prepare students for the demands of modern research.
+Data science has emerged as a crucial component of scientific research in recent years, and its applications are becoming increasingly widespread in many fields. As a result, data science education has become essential to prepare students for the demands of the modern job market.
 
-This webinar will discuss the importance of data science education in Physics and explore ways to incorporate it into undergraduate Physics courses. The webinar will be presented by Physics and Data Science experts, who will share their experiences and insights on this topic.
-
-Whether you are an undergraduate Physics student, an educator, or a researcher, this webinar is an excellent opportunity to learn about the importance of data science education in Physics and discover new ways to incorporate it into your teaching and research. 
+This webinar will explore various programs in data science available at universities. From undergraduate to graduate programs, we'll discuss the unique opportunities each program offers students interested in pursuing a career in data science. Our panel of experts will also provide insights into the job market for data scientists and the skills necessary to succeed in the field. Whether you are an undergraduate student, an educator, or a researcher, this webinar is an excellent opportunity to learn about the importance of data science programs. 
 
 The webinar will take place on May 16, 2023, at 1:00 pm EST. The [panelists](#may-2023-panelists) are [Peter Alonzi](https://datascience.virginia.edu/people/peter-alonzi) from the University of Virginia, [James Hickman](https://sites.google.com/site/jameshickman6810/) from Georgetown University, and [Sarah Stone](https://csde.washington.edu/affiliates/stone-sarah/) from the University of Washington.
 
