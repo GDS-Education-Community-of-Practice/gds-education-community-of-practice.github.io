@@ -11,7 +11,7 @@ permalink: /workshops/
   <table cellspacing="10">
     <tr>
       <td style="padding:0 30px 0 0;">
-        <p>The Data Science Education Community of Practice (DSECOP) is thrilled to announce its second workshop, which will be held from <strong>June 26–28, 2023</strong>, at the University of Maryland, College Park. Here is the [schedule](./../assets/23_Workshop/DSECOP23_Schedule.pdf). </p>
+        <p>The Data Science Education Community of Practice (DSECOP) is thrilled to announce its second workshop, which will be held from <strong>June 26–28, 2023</strong>, at the University of Maryland, College Park. </p>        <p>
       </td>
       <td>
         <img src="/assets/23_Workshop/qrcode_dsecop.org.png" alt="DSECOP June 2023 Workshop" height="100px" width="100px">
@@ -19,17 +19,13 @@ permalink: /workshops/
     </tr>
   </table>
 
-
-
-
-
 #### Goal
 This year, we aim to build on the success of our [first workshop](#dsecop-june-2022-workshop). Our primary focus is to continue developing a vibrant community of educators committed to incorporating data science into the undergraduate physics curriculum.
 
 To achieve this goal, we plan to have thought-provoking lectures and presentations from faculty members who are already engaged in this process. We will also be showcasing the latest contributions from fellows in our program who are developing innovative modules for inclusion in the existing curriculum. Additionally, we are excited to welcome participation from industry professionals who can bring their unique perspectives. 
 
 #### Topics 
-We anticipate this to be a highly interactive workshop, with plenty of time for discussion and contributed talks from all participants. Some of the topics we plan to cover in this workshop include:
+We anticipate this to be a highly interactive workshop, with plenty of time for discussion and contributed talks from all participants. Here is the [schedule of the workshop](./../assets/23_Workshop/DSECOP23_Schedule.pdf). Some of the topics we plan to cover in this workshop include:
 - Strategies for integrating data science concepts into the undergraduate physics curriculum
 - Best practices for teaching data science to students with varying levels of experience
 - Exploring the latest tools and technologies for data analysis in the physics classroom
