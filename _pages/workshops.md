@@ -74,7 +74,7 @@ Education in the Physics Department at the University of Illinois](./../assets/2
 - Deborah Roudebush (QuarkNet): [A Research Based Approach for Infusing 21st Century Physics into the High School Classroom](./../assets/22_Workshop/roudebush.pdf)
 - Mohammad Soltanieh-ha (Boston University): [Discussion: Preparation/Prerequisites](https://docs.google.com/presentation/d/1nbfzdZCUsOJMdmyk0CgzElDgQQAH87fpRSG6uePMf5I/edit#slide=id.g1363b42fc1c_1_0)
 
-### Day 3, June 23
+### Day 3, June 24
 Unconference: 
 - [Incorporating Stats/DS in Physics/STEM curricula](./../assets/22_Workshop/dinov_cheong.pdf)(Dinov and Cheong)
 - [Integrating Data Science into Physics Laboratories](./../assets/22_Workshop/letchworth-weaver_rivera.pdf)(Letchworth-Weaver and Rivera)
