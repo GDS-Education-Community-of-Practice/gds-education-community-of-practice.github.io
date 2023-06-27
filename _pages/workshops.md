@@ -6,7 +6,7 @@ sitemap: false
 permalink: /workshops/
 ---
 
-# DSECOP June 2023 Workshop Announcement
+# DSECOP June 2023 Workshop
 
 The Data Science Education Community of Practice (DSECOP) had its second workshop in <strong>June 26–28, 2023</strong>,   at the University of Maryland, College Park.
 
