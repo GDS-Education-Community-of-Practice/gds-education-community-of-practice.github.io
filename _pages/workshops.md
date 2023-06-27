@@ -26,6 +26,18 @@ to Analyze and Display Physics Data](./../assets/23_Workshop/butler.pdf)
 
 ## Announcement
 
+<table cellspacing="10">
+  <tr>
+    <td style="padding:0 30px 0 0;">
+      <p>The Data Science Education Community of Practice (DSECOP) is thrilled to announce its second workshop, which will be held from <strong>June 26–28, 2023</strong>, at the University of Maryland, College Park. </p>        
+    </td>
+    <td>
+      <img src="/assets/23_Workshop/qrcode_dsecop.org.png" alt="DSECOP June 2023 Workshop" height="100px" width="100px">
+    </td>
+  </tr>
+</table>
+
+
 #### Goal
 This year, we aim to build on the success of our [first workshop](#dsecop-june-2022-workshop). Our primary focus is to continue developing a vibrant community of educators committed to incorporating data science into the undergraduate physics curriculum.
 
