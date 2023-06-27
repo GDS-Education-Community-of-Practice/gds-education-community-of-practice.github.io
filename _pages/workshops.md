@@ -10,6 +10,8 @@ permalink: /workshops/
 
 The Data Science Education Community of Practice (DSECOP) had its second workshop in <strong>June 26–28, 2023</strong>,   at the University of Maryland, College Park.
 
+![DSECOP Participants](/assets/23_Workshop/DSECOP23_GroupPhoto.jpg){:height="300px" width="400px"}
+
 ## Slides
 Below are the slides made available by the speakers of our second workshop on incorporating data science in physics curriculum listed in the order of the [schedule](./../assets/23_Workshop/DSECOP23_Schedule.pdf).
 
