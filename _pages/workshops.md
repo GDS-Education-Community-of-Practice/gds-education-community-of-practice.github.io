@@ -8,16 +8,23 @@ permalink: /workshops/
 
 # DSECOP June 2023 Workshop Announcement
 
-  <table cellspacing="10">
-    <tr>
-      <td style="padding:0 30px 0 0;">
-        <p>The Data Science Education Community of Practice (DSECOP) is thrilled to announce its second workshop, which will be held from <strong>June 26–28, 2023</strong>, at the University of Maryland, College Park. </p>        
-      </td>
-      <td>
-        <img src="/assets/23_Workshop/qrcode_dsecop.org.png" alt="DSECOP June 2023 Workshop" height="100px" width="100px">
-      </td>
-    </tr>
-  </table>
+The Data Science Education Community of Practice (DSECOP) had its second workshop in <strong>June 26–28, 2023</strong>,   at the University of Maryland, College Park.
+
+## Slides
+Below are the slides made available by the speakers of our second workshop on incorporating data science in physics curriculum listed in the order of the [schedule](./../assets/23_Workshop/DSECOP23_Schedule.pdf).
+
+### Day 1, June 26
+
+- Julie Butler (University of Mount Union): [Introduction to Data Science Libraries: Using Pandas, Seaborn, and Matplotlib
+to Analyze and Display Physics Data](./../assets/23_Workshop/butler.pdf)
+- Karan Shah (Center for Advanced Systems Understanding): [Introduction to Computer Vision algorithms with applications in lab courses](./../assets/23_Workshop/shah.pdf)
+
+### Day 2, June 27
+
+### Day 3, June 28
+
+
+## Announcement
 
 #### Goal
 This year, we aim to build on the success of our [first workshop](#dsecop-june-2022-workshop). Our primary focus is to continue developing a vibrant community of educators committed to incorporating data science into the undergraduate physics curriculum.

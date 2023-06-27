@@ -32,7 +32,7 @@ We aim to build a community of researchers, practitioners, and learners to engag
 - [Plotting and Programming in Python](http://swcarpentry.github.io/python-novice-gapminder/) from [Software Carpentry](https://software-carpentry.org/).
 - [PHY 546: Python for Scientific Computing](https://sbu-python-class.github.io/python-science/Introduction.html)
 - [AST 390: Computational Astrophysics](https://zingale.github.io/computational_astrophysics/intro.html)
-
+- [Introduction to Colab](https://github.com/soltaniehha/Intro-to-Colab/) by [Mohammad Soltanieh-ha](https://www.bu.edu/questrom/profile/mohammad-soltanieh-ha/)
 
 
 ## Resources on Data Science Education
