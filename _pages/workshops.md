@@ -22,7 +22,7 @@ to Analyze and Display Physics Data](./../assets/23_Workshop/butler.pdf)
 - Karan Shah (Center for Advanced Systems Understanding): [Introduction to Computer Vision algorithms with applications in lab courses](./../assets/23_Workshop/shah.pdf)
 
 ### Day 2, June 27
-- Anıl Zenginoğlu (University of Maryland): [Learning AI from AI](../assets/23_Workshop/learningAI.html)
+- Anıl Zenginoğlu (University of Maryland): [Learning AI from AI](../assets/23_Workshop/learningAI.pdf)
 
 ### Day 3, June 28
 - Anıl Zenginoğlu (University of Maryland): [VSCode Setup](../assets/23_Workshop/vscode_setup.html)
