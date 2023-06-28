@@ -26,6 +26,8 @@ to Analyze and Display Physics Data](./../assets/23_Workshop/butler.pdf)
 - Anıl Zenginoğlu (University of Maryland): [Learning AI from AI](../assets/23_Workshop/learningAI.pdf)
 - Trevor David Rhone (Rensselaer Polytechnic Institute):
 [Machine Learning in Materials Physics Education](../assets/23_Workshop/rhone.pdf)
+
+
 ### Day 3, June 28
 - Anıl Zenginoğlu (University of Maryland): [VSCode Setup](../assets/23_Workshop/vscode_setup.html)
 
