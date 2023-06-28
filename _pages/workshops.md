@@ -19,11 +19,13 @@ Below are the slides made available by the speakers of our second workshop on in
 
 - Julie Butler (University of Mount Union): [Introduction to Data Science Libraries: Using Pandas, Seaborn, and Matplotlib
 to Analyze and Display Physics Data](./../assets/23_Workshop/butler.pdf)
+- Maissam Barkeshli (University of Maryland): [Machine learning for physicists](./../assets/23_Workshop/barkeshli.pdf)
 - Karan Shah (Center for Advanced Systems Understanding): [Introduction to Computer Vision algorithms with applications in lab courses](./../assets/23_Workshop/shah.pdf)
 
 ### Day 2, June 27
 - Anıl Zenginoğlu (University of Maryland): [Learning AI from AI](../assets/23_Workshop/learningAI.pdf)
-
+- Trevor David Rhone (Rensselaer Polytechnic Institute):
+[Machine Learning in Materials Physics Education](../assets/23_Workshop/rhone.pdf)
 ### Day 3, June 28
 - Anıl Zenginoğlu (University of Maryland): [VSCode Setup](../assets/23_Workshop/vscode_setup.html)
 
