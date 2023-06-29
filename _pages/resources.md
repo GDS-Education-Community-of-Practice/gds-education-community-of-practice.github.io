@@ -5,6 +5,10 @@ excerpt: "DSECOP funded by APS"
 sitemap: false
 permalink: /resources
 ---
+
+## DSECOP Modules
+Our modules are on GitHub and can be found [here](https://github.com/GDS-Education-Community-of-Practice/DSECOP). We welcome contributions from the community. If you are interested in contributing, please contact us at <dsecop@aps.org>.
+
 ## Resources for Involvement
 
 We aim to build a community of researchers, practitioners, and learners to engage with the teaching and education of data science. There are multiple ways to get involved in the conversation.
