@@ -20,6 +20,7 @@ Below are the slides made available by the speakers of our second workshop on in
 - Julie Butler (University of Mount Union): [Introduction to Data Science Libraries: Using Pandas, Seaborn, and Matplotlib
 to Analyze and Display Physics Data](./../assets/23_Workshop/butler.pdf)
 - Maissam Barkeshli (University of Maryland): [Machine learning for physicists](./../assets/23_Workshop/barkeshli.pdf)
+- Ashley Dale (Indiana University): [Connecting Monte Carlo Methods to Modern AI/ML](./../assets/23_Workshop/dale.pdf)
 - Karan Shah (Center for Advanced Systems Understanding): [Introduction to Computer Vision algorithms with applications in lab courses](./../assets/23_Workshop/shah.pdf)
 
 ### Day 2, June 27
