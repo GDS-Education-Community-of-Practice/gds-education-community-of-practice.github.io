@@ -25,6 +25,8 @@ to Analyze and Display Physics Data](./../assets/23_Workshop/butler.pdf)
 
 ### Day 2, June 27
 - Anıl Zenginoğlu (University of Maryland): [Learning AI from AI](../assets/23_Workshop/learningAI.pdf)
+- Johnny Lin (University of Washington Bothell)
+[Beginning at the Beginning: Teaching Novice Physicists Data Science Programming](../assets/23_Workshop/lin.pdf)
 - Trevor David Rhone (Rensselaer Polytechnic Institute):
 [Machine Learning in Materials Physics Education](../assets/23_Workshop/rhone.pdf)
 
