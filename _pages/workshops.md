@@ -22,6 +22,7 @@ to Analyze and Display Physics Data](./../assets/23_Workshop/butler.pdf)
 - Maissam Barkeshli (University of Maryland): [Machine learning for physicists](./../assets/23_Workshop/barkeshli.pdf)
 - Ashley Dale (Indiana University): [Connecting Monte Carlo Methods to Modern AI/ML](./../assets/23_Workshop/dale.pdf)
 - Karan Shah (Center for Advanced Systems Understanding): [Introduction to Computer Vision algorithms with applications in lab courses](./../assets/23_Workshop/shah.pdf)
+- Jacob Hale (DePauw University): [DSECOP Module Implementation: A Guinea Pig Speaks](./../assets/23_Workshop/hale.pdf)
 
 ### Day 2, June 27
 - Anıl Zenginoğlu (University of Maryland): [Learning AI from AI](../assets/23_Workshop/learningAI.pdf)
