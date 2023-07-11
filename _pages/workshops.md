@@ -16,7 +16,7 @@ The Data Science Education Community of Practice (DSECOP) had its second worksho
 Below are the slides made available by the speakers of our second workshop on incorporating data science in physics curriculum listed in the order of the [schedule](./../assets/23_Workshop/DSECOP23_Schedule.pdf).
 
 ### Day 1, June 26
-
+- Mohammad Soltanieh-ha (Boston University): [Overview of Fellows’ Activity](./../assets/23_Workshop/soltanieh-ha-fellows.pdf)
 - Julie Butler (University of Mount Union): [Introduction to Data Science Libraries: Using Pandas, Seaborn, and Matplotlib
 to Analyze and Display Physics Data](./../assets/23_Workshop/butler.pdf)
 - Maissam Barkeshli (University of Maryland): [Machine learning for physicists](./../assets/23_Workshop/barkeshli.pdf)
@@ -25,10 +25,12 @@ to Analyze and Display Physics Data](./../assets/23_Workshop/butler.pdf)
 - Jacob Hale (DePauw University): [DSECOP Module Implementation: A Guinea Pig Speaks](./../assets/23_Workshop/hale.pdf)
 
 ### Day 2, June 27
+- Mohammad Soltanieh-ha (Boston University): [Discussion: Tools](../assets/23_Workshop/soltanieh-ha-discussion.pdf)
 - Anıl Zenginoğlu (University of Maryland): [Learning AI from AI](../assets/23_Workshop/learningAI.pdf)
 - Chris Orban (Ohio State University): [Data Science in Introductory Physics and Physical Science: Ideas from the STEMcoding Project](../assets/23_Workshop/orban.pdf)
 - Johnny Lin (University of Washington Bothell)
 [Beginning at the Beginning: Teaching Novice Physicists Data Science Programming](../assets/23_Workshop/lin.pdf)
+- Ivo Dinov (University of Michigan): [Data Science Modules Enhancing the Biophysics Curriculum](../assets/23_Workshop/dinov.pdf)
 - Trevor David Rhone (Rensselaer Polytechnic Institute):
 [Machine Learning in Materials Physics Education](../assets/23_Workshop/rhone.pdf)
 
