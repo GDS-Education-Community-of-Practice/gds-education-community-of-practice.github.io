@@ -21,7 +21,7 @@ permalink: /team/
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} </i>
   <br>Email: <{{ member.email }}>
-  <br>Web: <{{ member.website }}>
+  <br>Web: <a href="{{ member.website }}">{{ member.website | remove: "https://" }}</a>
   <br>Affiliation: {{ member.aff }}
 </div>
 
@@ -43,7 +43,7 @@ permalink: /team/
 <div class="row">
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/soltanieh-ha.jpg" class="img-responsive" width="36%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/soltanieh-ha.jpg" class="img-responsive" width="33%" style="float: left" />
   <h4>Mohammad Soltaniehha</h4>
   <i>Computational condensed matter physics, machine learning in cancer research and forecasting, and embodied AI. Co-founder of GDS (APS's Data Science Unit).</i>
   <br>Email: <a href="mailto:msoltani@bu.edu">msoltani@bu.edu</a>
@@ -72,7 +72,7 @@ We are accepting applications for the 2026 DSECOP Fellowship cohort. [View the f
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} </i>
   <br>Email: <{{ member.email }}>
-  <br> Web: {% if member.website %} <{{ member.website }}> {% else %} <a href="{{ site.url }}{{ site.baseurl }}/team#fellows">DSECOP Fellows</a> {% endif %}
+  <br> Web: {% if member.website %} <{{ member.website }}> {% else %} <a href="{{ site.url }}{{ site.baseurl }}/team/">DSECOP Fellows</a> {% endif %}
   <br>Title: {{ member.title }}
   <br>Affiliation: {{ member.aff }}
 </div>
@@ -106,7 +106,7 @@ We are accepting applications for the 2026 DSECOP Fellowship cohort. [View the f
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} </i>
   <br>Email: <{{ member.email }}>
-  <br> Web: {% if member.website %} <{{ member.website }}> {% else %} <a href="{{ site.url }}{{ site.baseurl }}/team#fellows">DSECOP Fellows</a> {% endif %}
+  <br> Web: {% if member.website %} <{{ member.website }}> {% else %} <a href="{{ site.url }}{{ site.baseurl }}/team/">DSECOP Fellows</a> {% endif %}
   <br>Title: {{ member.title }}
   <br>Affiliation: {{ member.aff }}
 </div>
