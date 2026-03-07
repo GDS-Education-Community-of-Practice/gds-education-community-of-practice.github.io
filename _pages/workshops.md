@@ -6,6 +6,15 @@ sitemap: false
 permalink: /workshops/
 ---
 
+# DSECOP July 2026 Workshop
+<p style="font-size: 1.4em; color: grey;">AAPT Summer Meeting 2026</p>
+
+#### Saturday, July 18, 2026 (afternoon) — 4 hours
+
+A hands-on workshop on integrating data science and AI into undergraduate physics courses. Participants will work through DSECOP modules using cloud-based tools such as Google Colab, explore interactive exercises, and experience an AI-paired programming session demonstrating how large language models and data-driven methods can be meaningfully embedded in physics instruction.
+
+---
+
 # DSECOP June 2023 Workshop
 
 The Data Science Education Community of Practice (DSECOP) had its second workshop in <strong>June 26–28, 2023</strong>,   at the University of Maryland, College Park.
