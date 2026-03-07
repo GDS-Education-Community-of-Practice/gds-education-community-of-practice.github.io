@@ -47,6 +47,20 @@ firstp {
 }
 
 /* Home, News */
+@media (min-width: 768px) {
+  .row:has(#homeid) {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  #newsid {
+    display: flex;
+    flex-direction: column;
+  }
+  #newsid .well {
+    flex: 1;
+  }
+}
+
 #newsid p {
 	text-align: left;
 }
