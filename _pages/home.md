@@ -14,7 +14,7 @@ At the Data Science Community of Practice (DSECOP), we recognize the urgency of 
 
 While computation is becoming normalized in undergraduate physics education, data science education is lagging behind. The 2016 AAPT report acknowledged the significance of data science skills and encouraged educators to stay updated with the latest developments in this field. Fortunately, with the availability of new tools, developing data science skills has become more accessible than ever before.
 
-DSECOP, a program funded by the APS Innovation Fund and led by the APS Group on Data Science (GDS), aims to support physics educators in integrating data science into their courses. We offer a range of resources and opportunities to help you stay ahead:
+DSECOP, funded by an AIP Venture Grant, in partnership with AAPT, aims to support physics educators in integrating data science into their courses. We offer a range of resources and opportunities to help you stay ahead:
 
 DSECOP is a collaborative effort involving institutions such as UMD, NIST, and many others. By joining our community, you'll connect with like-minded educators, share ideas, and contribute to the advancement of data science education in physics.
 
@@ -74,14 +74,11 @@ We are a collaboration between UMD, NIST, and many other places.
 ## Funding
 
 <figure>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/APSLogo-RGB.png" style="height: 120px">&nbsp;&nbsp;
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/IPST.png" style="width: 300px">&nbsp;&nbsp;&nbsp;
-  <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NIST.png" style="width: 180px"> -->
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/AIP_logo.svg" style="height: 80px">&nbsp;&nbsp;&nbsp;
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/AAPT_logo.jpg" style="height: 120px">
 </figure>
 
-"This website is funded, in part, by the American Physical Society (APS) Innovation Fund through Award IF-11.
- 
-The American Physical Society (APS) Innovation Fund provides funding to advance collaborative projects that support the APS mission "to advance and diffuse the knowledge of physics for the benefit of humanity, promote physics, and service the broader physics community." Visit <a href="https://APS.org">APS.org</a> and follow <a href="https://twitter.com/APSphysics">@APSphysics</a>.
+DSECOP is currently funded by an AIP Venture Grant, in partnership with AAPT. The project was originally funded by the American Physical Society (APS) Innovation Fund (Award IF-11) in 2022.
 
 <figure>
 </figure>
