@@ -10,7 +10,7 @@ Prepare your physics students for diverse career paths by equipping them with es
 
 DSECOP, funded by an AIP Venture Grant, in partnership with AAPT, supports physics educators in integrating data science into their courses. We offer resources, teaching modules, webinars, and workshops to help you bring modern data science into your classroom.
 
-DSECOP is a collaborative effort involving institutions such as AAPT, NIST, Boston University, and many others. By joining our community, you'll connect with like-minded educators, share ideas, and contribute to the advancement of data science education in physics.
+DSECOP is a collaborative effort involving institutions such as AAPT, NIST, Boston University, University of Mount Union, and many others. By joining our community, you'll connect with like-minded educators, share ideas, and contribute to the advancement of data science education in physics.
 
 With the explosive growth of data science within physics, formal instruction is only beginning to be included in curricula. The Effective Practices for Physics Programs (EP3) guide and the Phys21 report emphasize the need for broader education, yet students often have to learn data science on their own. While the 2016 AAPT Recommendations and the Partnership for Integration of Computation in Undergraduate Physics (PICUP) have paved the way for integrating computation into physics courses, it's time to extend this integration to data science.
 
