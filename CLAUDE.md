@@ -53,7 +53,7 @@ Pages use front matter with `permalink` for clean URLs. Key pages: home (`/`), w
 
 ### Custom plugin (`_plugins/markdown.rb`)
 
-Provides a `{% markdown filename %}` Liquid tag that reads from `_includes/`, processes Liquid, then renders Kramdown. Note: custom plugins don't run on GitHub Pages — this may only work locally.
+Provides a `{% raw %}{% markdown filename %}{% endraw %}` Liquid tag that reads from `_includes/`, processes Liquid, then renders Kramdown. Note: custom plugins don't run on GitHub Pages — this may only work locally.
 
 ### Styling
 

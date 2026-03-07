@@ -17,6 +17,9 @@ include:
   - .htaccess
   - _pages
 
+exclude:
+  - CLAUDE.md
+
 sass:
   sass_dir: _sass
 
