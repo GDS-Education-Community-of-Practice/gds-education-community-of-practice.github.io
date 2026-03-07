@@ -19,7 +19,9 @@ A hands-on workshop on integrating data science and AI into undergraduate physic
 
 The Data Science Education Community of Practice (DSECOP) had its second workshop in <strong>June 26–28, 2023</strong>,   at the University of Maryland, College Park.
 
-![DSECOP Participants](/assets/23_Workshop/DSECOP23_GroupPhoto.jpg){:height="300px" width="400px"}
+<div style="max-width: 400px;">
+<img src="/assets/23_Workshop/DSECOP23_GroupPhoto.jpg" alt="DSECOP Participants" class="img-responsive">
+</div>
 
 ## Slides
 Below are the slides made available by the speakers of our second workshop on incorporating data science in physics curriculum listed in the order of the [schedule](./../assets/23_Workshop/DSECOP23_Schedule.pdf).
@@ -84,7 +86,9 @@ This workshop is now closed.
 # DSECOP June 2022 Workshop
 Thanks to all participants who attended the first DSECOP workshop! Here's a group photo taken on the second day.
 
-![DSECOP Participants](/assets/22_Workshop/DSECOP22WorkshopPhoto_Small.jpeg){:height="300px" width="400px"}
+<div style="max-width: 400px;">
+<img src="/assets/22_Workshop/DSECOP22WorkshopPhoto_Small.jpeg" alt="DSECOP Participants" class="img-responsive">
+</div>
 
 ## Slides
 Below are the slides from our first workshop on incorporating data science in physics curriculum listed in the order of the [schedule](./../assets/22_Workshop/DSECOP22_Schedule.pdf).
@@ -127,8 +131,8 @@ Unconference:
 
 **Case Study: Predicting Galaxy Spins** (from Ivo Dinov)
 
-- [Data Science and Predictive Analytics (DSPA)](https://socr.umich.edu/DSPA2/DSPA2_notes/05_SupervisedClassification.html) textbook: <https://www.socr.umich.edu/people/dinov/courses/DSPA_notes/06_LazyLearning_kNN.html#4_Case_Study:_Predicting_Galaxy_Spins>
-- <https://umich.instructure.com/courses/38100/files/folder/Case_Studies/22_SDSS_GalaxySpins_Case_Study>
+- [Data Science and Predictive Analytics (DSPA)](https://socr.umich.edu/DSPA2/DSPA2_notes/05_SupervisedClassification.html) textbook: [Predicting Galaxy Spins (Chapter 6)](https://www.socr.umich.edu/people/dinov/courses/DSPA_notes/06_LazyLearning_kNN.html#4_Case_Study:_Predicting_Galaxy_Spins)
+- [Galaxy Spins Case Study (Canvas)](https://umich.instructure.com/courses/38100/files/folder/Case_Studies/22_SDSS_GalaxySpins_Case_Study)
 
 
 ## Announcement

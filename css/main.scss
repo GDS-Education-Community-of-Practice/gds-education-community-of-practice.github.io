@@ -83,6 +83,22 @@ firstp {
 
 /* Carusel */
 
+/* Responsive iframes (YouTube embeds) */
+.embed-responsive {
+    margin-bottom: 20px;
+}
+
+/* Prevent long URLs from overflowing on mobile */
+a {
+    word-break: break-word;
+}
+
+/* Ensure images don't overflow their containers on mobile */
+img {
+    max-width: 100%;
+    height: auto;
+}
+
 .carousel {
     border-radius: 3px 3px 3px 3px;
     margin-bottom: 20px;

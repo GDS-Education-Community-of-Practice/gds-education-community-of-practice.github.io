@@ -13,7 +13,9 @@ permalink: /webinars/
 #### May 16, 2023, 1:00 pm
 
 <!-- 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yKpjnvL5sWY" title="Webinar recording" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+<iframe src="https://www.youtube.com/embed/yKpjnvL5sWY" title="Webinar recording" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
  -->
 
 Data science has emerged as a crucial component of scientific research in recent years, and its applications are becoming increasingly widespread in many fields. As a result, data science education has become essential to prepare students for the demands of the modern job market.
@@ -72,7 +74,9 @@ Sarah Stone is the Executive Director of the University of Washington eScience I
 
 From catapults to nuclear bombs, physicists played a central role in new technologies that raise moral questions. With the participation of physicists in the rise of data science and machine learning, we need to think carefully about how to incorporate ethics into the data science education for physicists.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yKpjnvL5sWY" title="Webinar recording" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+<iframe src="https://www.youtube.com/embed/yKpjnvL5sWY" title="Webinar recording" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
  Our [panelists](#7-december-panelists) discussed the ethical dimension of data science from a physicist's point of view. The webinar took place on December 7, at 12:00 pm EST. The panelists were [Aishik Ghosh](https://www.physics.lbl.gov/directory/staff-members/aishik-ghosh/) from UC Irvine and Berkeley Lab, [Ian René Solano-Kamaiko](https://iansolano.com/) from Cornell University, and [Savannah Thais](https://datascience.columbia.edu/people/savannah-thais/) from Columbia University.
 
@@ -125,7 +129,9 @@ Savannah Thais is a Research Scientist at the Columbia University Data Science I
 
 The webinar took place on Wednesday, September 14, at 12:00 pm. The [panelists](#14-september-panelists) were [Jamie Antonelli](https://www.linkedin.com/in/jamie-antonelli) from Blue Cross Blue Shield, [Tony Chu](https://www.linkedin.com/in/toekneechew/) from ECS, [Nima Dehmamy](https://www.linkedin.com/in/nima-dehmamy-57770a4a/) from IBM Research, and [Jennifer Hobbs](https://scholar.google.com/citations?user=zeWhseAAAAAJ) from Intelinair.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HQHMicer4XQ" title="Webinar recording" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+<iframe src="https://www.youtube.com/embed/HQHMicer4XQ" title="Webinar recording" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 The [panelists](#14-september-panelists) talked about their experience as data scientists in private industry and discussed how the physics education prepared them for their careers. The discussion also highlighted skills and knowledge undergraduate physics majors need for data science careers.
 
@@ -188,7 +194,9 @@ Dr. Jennifer Hobbs is the Director of Machine Learning at Intelinair, an ag-tech
 
 Curious what data science and physics looks like when the physics department primarily serves undergraduates? This webinar is for you! Our presenters discuss how they include data science in their undergraduate physics courses, providing examples of what they did and sharing lessons learned. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wemUFfJpTPY" title="Webinar recording" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+<iframe src="https://www.youtube.com/embed/wemUFfJpTPY" title="Webinar recording" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 The webinar took place on Wednesday, May 25th, at 1:00 pm. The moderator was the PI of the program, [William Ratcliff](https://www.nist.gov/people/william-d-ratcliff). The panelists were [Matthew Bellis](https://www.siena.edu/faculty-and-staff/person/matthew-bellis/) from Siena College and [Amy Roberts](https://clas.ucdenver.edu/physics/amy-roberts-phd) from UC Denver. 
 
@@ -224,7 +232,9 @@ Webinar on Friday, March 4th, at 10:30 am to discuss teaching data science to ph
 
 You can watch a recording of the webinar below.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TNLaVmLV6mw" title="Webinar recording" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+<iframe src="https://www.youtube.com/embed/TNLaVmLV6mw" title="Webinar recording" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 The webinar was moderated by the PI of the program, [William Ratcliff](https://www.nist.gov/people/william-d-ratcliff). The panelists were [Boris Kozinsky](https://bkoz.seas.harvard.edu/people/boris-kozinsky) from the Harvard School of Engineering and Applied Sciences, [Aaron Gilad Kusne](https://www.nist.gov/people/aaron-gilad-kusne) from the National Institute of Standards and Technology, [Federica Bianco](http://fbb.space/) from the University of Delaware, [Trevor David Rhone](https://science.rpi.edu/physics/faculty/trevor-rhone) from the Rensselaer Polytechnic Institute, and [Mohammad Soltaniehha](https://www.bu.edu/questrom/profile/mohammad-soltanieh-ha/) from Boston University.
 
