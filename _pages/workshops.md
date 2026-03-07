@@ -16,7 +16,7 @@ The Data Science Education Community of Practice (DSECOP) had its second worksho
 Below are the slides made available by the speakers of our second workshop on incorporating data science in physics curriculum listed in the order of the [schedule](./../assets/23_Workshop/DSECOP23_Schedule.pdf).
 
 ### Day 1, June 26
-- Mohammad Soltanieh-ha (Boston University): [Overview of Fellows’ Activity](./../assets/23_Workshop/soltanieh-ha-fellows.pdf)
+- Mohammad Soltaniehha (Boston University): [Overview of Fellows’ Activity](./../assets/23_Workshop/soltanieh-ha-fellows.pdf)
 - Julie Butler (University of Mount Union): [Introduction to Data Science Libraries: Using Pandas, Seaborn, and Matplotlib
 to Analyze and Display Physics Data](./../assets/23_Workshop/butler.pdf)
 - Maissam Barkeshli (University of Maryland): [Machine learning for physicists](./../assets/23_Workshop/barkeshli.pdf)
@@ -25,7 +25,7 @@ to Analyze and Display Physics Data](./../assets/23_Workshop/butler.pdf)
 - Jacob Hale (DePauw University): [DSECOP Module Implementation: A Guinea Pig Speaks](./../assets/23_Workshop/hale.pdf)
 
 ### Day 2, June 27
-- Mohammad Soltanieh-ha (Boston University): [Discussion: Tools](../assets/23_Workshop/soltanieh-ha-discussion.pdf)
+- Mohammad Soltaniehha (Boston University): [Discussion: Tools](../assets/23_Workshop/soltanieh-ha-discussion.pdf)
 - Anıl Zenginoğlu (University of Maryland): [Learning AI from AI](../assets/23_Workshop/learningAI.pdf)
 - Chris Orban (Ohio State University): [Data Science in Introductory Physics and Physical Science: Ideas from the STEMcoding Project](../assets/23_Workshop/orban.pdf)
 - Johnny Lin (University of Washington Bothell)
@@ -83,7 +83,7 @@ Below are the slides from our first workshop on incorporating data science in ph
 ### Day 1, June 22
 
 - William Ratcliff (NIST & UMD): [Opening Remarks](./../assets/22_Workshop/ratcliff.pdf)
-- Mohammad Soltanieh-Ha (Boston University): [Overview of Fellows’ Activity](../assets/22_Workshop/soltanieh-ha.pdf)
+- Mohammad Soltaniehha (Boston University): [Overview of Fellows’ Activity](../assets/22_Workshop/soltanieh-ha.pdf)
 - Julie Butler (DSECOP Fellow, Michigan State University): [Using Neural Networks to Solve Differential Equations in Classical Mechanics](./../assets/22_Workshop/butler.pdf)
 - Radha Mastandrea (DSECOP Fellow, University of California Berkeley, Lawrence Berkeley National Laboratory): [Introduction to Data Processing](./../assets/22_Workshop/mastandrea.pdf)
 - Aaron Gilad Kusne (NIST): [Teaching Machine Learning](./../assets/22_Workshop/kusne.pdf)
@@ -106,7 +106,7 @@ with Physics](./../assets/22_Workshop/fan.pdf)
 - Mark Neubauer (University of Illinois at Urbana-Champaign): [Data Analysis and Machine Learning
 Education in the Physics Department at the University of Illinois](./../assets/22_Workshop/neubauer.pdf)
 - Deborah Roudebush (QuarkNet): [A Research Based Approach for Infusing 21st Century Physics into the High School Classroom](./../assets/22_Workshop/roudebush.pdf)
-- Mohammad Soltanieh-ha (Boston University): [Discussion: Preparation/Prerequisites](https://docs.google.com/presentation/d/1nbfzdZCUsOJMdmyk0CgzElDgQQAH87fpRSG6uePMf5I/edit#slide=id.g1363b42fc1c_1_0)
+- Mohammad Soltaniehha (Boston University): [Discussion: Preparation/Prerequisites](https://docs.google.com/presentation/d/1nbfzdZCUsOJMdmyk0CgzElDgQQAH87fpRSG6uePMf5I/edit#slide=id.g1363b42fc1c_1_0)
 
 ### Day 3, June 24
 Unconference: 
@@ -135,7 +135,7 @@ Primary lodging will be at the dorms at the University of Maryland, conveniently
 We are looking forward to your participation in a mutually stimulating and productive DSECOP workshop!
 
 Confirmed Speakers:
-* Mohammad Soltanieh-Ha (Boston University)
+* Mohammad Soltaniehha (Boston University)
 * Aaron Gilad Kusne (NIST)
 * Linda Hung (Toyota Research Institute)
 * Sebastian Atalla (DSECOP Fellow, University of North Carolina at Chapel Hill)
