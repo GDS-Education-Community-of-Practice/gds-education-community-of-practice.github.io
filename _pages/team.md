@@ -44,25 +44,11 @@ permalink: /team/
 
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/soltanieh-ha.jpg" class="img-responsive" width="36%" style="float: left" />
-  <h4>Mohammad Soltanieh-ha</h4>
-  <i> Strongly correlated electronic systems in low dimensions, computer vision in cancer diagnosis, high-performance computing. Faculty Expert at Google Cloud.</i>
+  <h4>Mohammad Soltaniehha</h4>
+  <i>Computational condensed matter physics, machine learning in cancer research and forecasting, and embodied AI. Co-founder of GDS (APS's Data Science Unit).</i>
   <br>Email: <a href="mailto:msoltani@bu.edu">msoltani@bu.edu</a>
-  <br>Web: <a href="https://www.bu.edu/questrom/profile/mohammad-soltanieh-ha/">https://www.bu.edu/questrom/profile/mohammad-soltanieh-ha/</a>
-  <br>Affiliation: Questrom School of Business at Boston University
-</div>
-</div>
-
-# Reviewer
-
-<div class="row">
-
-<div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/hale.jpg" class="img-responsive" width="36%" style="float: left" />
-  <h4>Jacob Hale</h4>
-  <i> Applying physical laws and theories to understand how viruses pack DNA, how bacteria respond to osmotic shock, and how membrane proteins in human cancer cells function.</i>
-  <br>Email: <a href="mailto:jacobhale@depauw.edu">jacobhale@depauw.edu</a>
-  <br>Web: <a href="https://www.depauw.edu/academics/departments-programs/physics-astronomy/faculty-staff/faculty-staff-websites/j-hale/">https://www.depauw.edu/academics/departments-programs/physics-astronomy/faculty-staff/faculty-staff-websites/j-hale/</a>
-  <br>Affiliation: DePauw University
+  <br>Web: <a href="https://soltaniehha.com">soltaniehha.com</a>
+  <br>Affiliation: Boston University
 </div>
 </div>
 
@@ -134,12 +120,11 @@ permalink: /team/
 </div>
 {% endif %}
 
-# Community Manager
-<div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/zenginoglu.jpg" class="img-responsive" width="36%" style="float: left" />
-  <h4>Anıl Zenginoğlu</h4>
-  <i> Black holes, gravitational waves, hyperbolic geometry, and null infinity.</i>
-  <br>Email: <a href="mailto:anil@umd.edu">anil@umd.edu</a>
-  <br>Web: <a href="https://anilzen.github.io">anilzen.github.io</a>
-  <br>Affiliation: IPST at the University of Maryland
-</div>
+# Former Project Contributors
+
+We gratefully acknowledge the contributions of the following individuals to DSECOP:
+
+- **Wolfgang Losert** — Principal Investigator, IPST and Physics at the University of Maryland
+- **Maria (Marilena) Longobardi** — Principal Investigator, University of Basel
+- **Jacob Hale** — Reviewer, DePauw University
+- **Anıl Zenginoğlu** — Community Manager, IPST at the University of Maryland

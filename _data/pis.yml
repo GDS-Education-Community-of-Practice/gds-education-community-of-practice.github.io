@@ -5,20 +5,13 @@
   email: wratclif@umd.edu
   aff: National Institute of Standards and Technology
 
-- name: Wolfgang Losert
-  photo: losert.jpg
-  info: Studies dynamical properties of complex systems at the convergence of physics and biology with special focus on cell motion and collective behavior to understand cancer.
-  website: https://losertlab.umd.edu/
-  email: wlosert@umd.edu
-  aff: IPST and Physics at the University of Maryland
+- name: Julie Butler
+  photo: butler_2023.png
+  info: Theoretical nuclear physicist using machine learning for many-body calculations. Former DSECOP Fellow (2022 and 2023 cohorts).
+  website: https://juliebutler.blog
+  email: butlerju@mountunion.edu
+  aff: University of Mount Union
 
-- name: Maria (Marilena) Longobardi
-  photo: longobardi.jpg
-  info: Atomic scale structure and electronic properties of low dimensional systems (1D and 2D). Quantum phenomena in semiconductors and hybrid nanostructures. Scientific Coordinator at NCCR SPIN (University of Basel).
-  website: https://www.nccr-spin.ch/news/maria-longobardi-is-our-new-coordinator
-  email: maria.longobardi@unibas.ch
-  aff: University of Basel, Switzerland
-  
 - name: Alexis Knaub
   photo: knaub.webp
   info: Consultant, evaluator, and researcher in postsecondary STEM education.
