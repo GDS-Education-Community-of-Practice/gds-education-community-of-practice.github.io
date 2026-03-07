@@ -22,7 +22,7 @@ This webinar will explore various programs in data science available at universi
 
 The webinar will take place on May 16, 2023, at 1:00 pm EST. The [panelists](#may-2023-panelists) are [Peter Alonzi](https://datascience.virginia.edu/people/peter-alonzi) from the University of Virginia, [James Hickman](https://sites.google.com/site/jameshickman6810/) from Georgetown University, and [Sarah Stone](https://csde.washington.edu/affiliates/stone-sarah/) from the University of Washington.
 
-Please register [here](https://umd.zoom.us/meeting/register/tJMocu-pqj8uHdFgqnGcGgwRHHujKCj1cr1d).
+Registration for this webinar is now closed.
 
 <div class="row"><a name="may-2023-panelists"></a>
 

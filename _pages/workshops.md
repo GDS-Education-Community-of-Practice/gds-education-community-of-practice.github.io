@@ -68,7 +68,7 @@ We anticipate this to be a highly interactive workshop, with plenty of time for 
 #### Apply
 We encourage all physics faculty teaching undergraduate physics to apply for this workshop. We also welcome graduate students, postdocs, industry professionals, and data science enthusiasts to apply. As with our first workshop, we expect in-person attendance as this event is highly interactive.
 
-Because this workshop has limited space, we have an application process. Please fill in the  [application form](https://forms.gle/iFLo7y8HXBmTdoxe8) to be considered. All participants have a non-refundable $75 registration fee. Applications received by **April 14th at 5 PM ET** will receive full consideration for contributed talks and financial support. We will notify you by April 21st when we make our decision.
+This workshop is now closed.
 
 ---
 
@@ -128,7 +128,7 @@ We are delighted to announce the first workshop by the Data Science Education Co
 
 The primary goal of this workshop is to develop a community of practice around incorporating data science into the undergraduate physics curriculum.  This workshop will include lectures from faculty who are already engaged in this process and presentations from fellows in our program developing modules for inclusion in the existing curriculum.  We also expect participation from the industry. There will be plenty of time for discussion and contributed talks.
 
-Please fill in the [application form](https://docs.google.com/forms/d/e/1FAIpQLSfj30--o6JGJbGeq2uUPBI9fIu0SoPLs0OXTRpi-OmHmkFAtg/viewform) to be considered for this workshop. Because of the interactive nature of this workshop, we expect in-person attendance.
+This workshop is now closed.
 
 Primary lodging will be at the dorms at the University of Maryland, conveniently located to the lectures.  Lodging and meals will be $390 for the workshop.
 
