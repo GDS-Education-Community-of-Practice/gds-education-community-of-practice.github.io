@@ -52,6 +52,10 @@ permalink: /team/
 </div>
 </div>
 
+# 2026 Fellows
+
+We are accepting applications for the 2026 DSECOP Fellowship cohort. [View the full announcement and apply here.]({{ site.url }}{{ site.baseurl }}/fellowship/)
+
 # 2023 Fellows
 
 {% assign number_printed = 0 %}
