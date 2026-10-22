@@ -8,9 +8,40 @@ permalink: /webinars/
 
 ## Large Language Model Programs
 
+<a name="webinar-nov13"></a>
+
+#### November 13th, 2026, 12:30pm ET
+
+In this webinar, DSECOP fellows will present the modules they developed to bring large language models into the undergraduate physics curriculum. The speakers for the webinar are [Dr. Marko Ristić](https://mristic.space/) (UC San Diego) and [Dr. Vladimir Strokov](https://gwac.wvu.edu/about/people/vladimir-strokov) (West Virgina University).
+
+[Register for the webinar at this link.](https://aapt.tradewing.com/events/ZGACeLCM6ZEcqHxzh)
+
+##### Module 1
+
+This module is designed to introduce undergraduate physics students to introductory concepts in computational physics with the assistance of LLMs for code development. The basic setup is the modeling of a star-forming molecular and gas cloud collapsing to form a young stellar cluster. Students all start with the same initial problem setup, and can go one of multiple ways, depending on the physics they are interested in incorporating into their model. The main takeaway from the module is for students to walk away with a semi-realistic computational physics code which they designed with the help of LLMs. The learning goal of the module is understanding how to design, validate, and perform experiments with a computational physics code for a broad set of physics topics after focusing on the specific topic presented here.
+
+##### Module 2
+Lunar Flyby is a two-session module for the Kepler's-laws unit of an introductory classical-mechanics course. It is inspired by NASA's crewed Artemis II mission, and uses its real orbital parameters. Students apply their physics knowledge while using an LLM for the coding they have not yet been taught. Part 1 of the module is dedicated to reproducing a two-body Kepler orbit numerically and checking it against theory, including verification of energy and angular momentum conservation. In Part 2 students add the Moon, build the restricted three-body problem, and "fly" a free-return lunar flyby from Orion's real post-injection state, so the simulated capsule comes home within about an hour of the actual splashdown. The learning goals span three areas: the orbital mechanics (Kepler orbits, the restricted three-body problem, and the free-return flyby), the scientific computing (a time-stepping integrator, trajectory animation, and converting the scaled solution back to physical units), and AI literacy (treating the LLM as a tool whose output must be checked against physics, including finding and classifying a deliberately planted bug).
+
+<div class="row">
+ <div class="col-sm-6 clearfix">
+  <div class="well">
+   <pubtit>Dr. Marko Ristić</pubtit>
+   <img src="/images/eventpic/ristic.webp" class="img-responsive" width="33%" style="float: left" />
+  </div>
+ </div>
+ <div class="col-sm-6 clearfix">
+  <div class="well">
+   <pubtit>Dr. Vladimir Strokov</pubtit>
+   <img src="/images/eventpic/strokov.jpg" class="img-responsive" width="33%" style="float: left" />
+  </div>
+ </div>
+</div>
+
 
 <a name="webinar-oct23"></a>
-#### October 23rd, 2026, 12:30pm
+
+#### October 23rd, 2026, 12:30pm ET
 
 Students already use AI to get through problem sets, often getting answers instead of understanding. General chatbots don't know your syllabus, they can get the physics confidently wrong, and the best models sit behind paywalls many students can't afford. ProfAI (profai.site) takes a different approach. Instructors load their own course materials, and students get an AI tutor grounded in them, available by text, voice or a speaking avatar, with quizzes built from the week's content. It gives hints and asks questions back rather than handing out solutions, and faculty stay in control of what it knows and how it teaches.
 
