@@ -2,17 +2,18 @@
 title: "DSECOP - Webinars"
 layout: gridlay
 excerpt: "DSECOP: Webinars"
+image: /images/dsecop-card-webinars.jpg
 sitemap: false
 permalink: /webinars/
 ---
 
-## Large Language Model Programs
-
 <a name="webinar-nov13"></a>
 
-#### November 13th, 2026, 12:30pm ET
+## Large Language Model Programs
 
-In this webinar, DSECOP fellows will present the modules they developed to bring large language models into the undergraduate physics curriculum. The speakers for the webinar are [Dr. Marko Ristić](https://mristic.space/) (UC San Diego) and [Dr. Vladimir Strokov](https://gwac.wvu.edu/about/people/vladimir-strokov) (West Virgina University).
+#### November 13, 2026, 12:30 pm ET
+
+In this webinar, DSECOP fellows will present the modules they developed to bring large language models into the undergraduate physics curriculum. The [speakers](#nov-2026-speakers) are [Marko Ristić](https://mristic.space/) from UC San Diego and [Vladimir Strokov](https://gwac.wvu.edu/about/people/vladimir-strokov) from West Virginia University.
 
 [Register for the webinar at this link.](https://aapt.tradewing.com/events/ZGACeLCM6ZEcqHxzh)
 
@@ -20,51 +21,65 @@ In this webinar, DSECOP fellows will present the modules they developed to bring
 
 This module is designed to introduce undergraduate physics students to introductory concepts in computational physics with the assistance of LLMs for code development. The basic setup is the modeling of a star-forming molecular and gas cloud collapsing to form a young stellar cluster. Students all start with the same initial problem setup, and can go one of multiple ways, depending on the physics they are interested in incorporating into their model. The main takeaway from the module is for students to walk away with a semi-realistic computational physics code which they designed with the help of LLMs. The learning goal of the module is understanding how to design, validate, and perform experiments with a computational physics code for a broad set of physics topics after focusing on the specific topic presented here.
 
-##### Module 2
+##### Module 2: Lunar Flyby
+
 Lunar Flyby is a two-session module for the Kepler's-laws unit of an introductory classical-mechanics course. It is inspired by NASA's crewed Artemis II mission, and uses its real orbital parameters. Students apply their physics knowledge while using an LLM for the coding they have not yet been taught. Part 1 of the module is dedicated to reproducing a two-body Kepler orbit numerically and checking it against theory, including verification of energy and angular momentum conservation. In Part 2 students add the Moon, build the restricted three-body problem, and "fly" a free-return lunar flyby from Orion's real post-injection state, so the simulated capsule comes home within about an hour of the actual splashdown. The learning goals span three areas: the orbital mechanics (Kepler orbits, the restricted three-body problem, and the free-return flyby), the scientific computing (a time-stepping integrator, trajectory animation, and converting the scaled solution back to physical units), and AI literacy (treating the LLM as a tool whose output must be checked against physics, including finding and classifying a deliberately planted bug).
 
-<div class="row">
- <div class="col-sm-6 clearfix">
-  <div class="well">
-   <pubtit>Dr. Marko Ristić</pubtit>
-   <img src="/images/eventpic/ristic.webp" class="img-responsive" width="33%" style="float: left" />
-  </div>
- </div>
- <div class="col-sm-6 clearfix">
-  <div class="well">
-   <pubtit>Dr. Vladimir Strokov</pubtit>
-   <img src="/images/eventpic/strokov.jpg" class="img-responsive" width="33%" style="float: left" />
-  </div>
+<div class="row"><a name="nov-2026-speakers"></a>
+
+<div class="col-sm-6 clearfix">
+ <div class="well clearfix">
+  <pubtit>Marko Ristić</pubtit>
+  <img src="/images/eventpic/ristic.jpg" class="img-responsive" width="33%" style="float: left" />
+  <p>
+DSECOP Fellow<br>University of California, San Diego<br><a href="https://mristic.space/">mristic.space</a>
+  </p>
  </div>
 </div>
 
+<div class="col-sm-6 clearfix">
+ <div class="well clearfix">
+  <pubtit>Vladimir Strokov</pubtit>
+  <img src="/images/eventpic/strokov.jpg" class="img-responsive" width="33%" style="float: left" />
+  <p>
+DSECOP Fellow<br>West Virginia University<br><a href="https://gwac.wvu.edu/about/people/vladimir-strokov">Faculty profile</a>
+  </p>
+ </div>
+</div>
+
+</div>
 
 <a name="webinar-oct23"></a>
+<p> &nbsp; </p>
 
-#### October 23rd, 2026, 12:30pm ET
+## AI Tutors for Physics: A ProfAI Demo
 
-Students already use AI to get through problem sets, often getting answers instead of understanding. General chatbots don't know your syllabus, they can get the physics confidently wrong, and the best models sit behind paywalls many students can't afford. ProfAI (profai.site) takes a different approach. Instructors load their own course materials, and students get an AI tutor grounded in them, available by text, voice or a speaking avatar, with quizzes built from the week's content. It gives hints and asks questions back rather than handing out solutions, and faculty stay in control of what it knows and how it teaches.
+#### October 23, 2026, 12:30 pm ET
 
-In this webinar, Mohammad Soltaniehha from Boston University walks through a mock course: an introductory special relativity unit "taught" by an AI Albert Einstein. The course is built from Einstein's own public-domain writing, with a full syllabus, lecture scripts, readings and slides. You'll see it from both the student and instructor side. The goal of this demo is to showcase what is possible today and, hopefully, inspire the community to build tools that enable both faculty and students inside and outside of the classroom
+Students already use AI to get through problem sets, often getting answers instead of understanding. General chatbots don't know your syllabus, they can get the physics confidently wrong, and the best models sit behind paywalls many students can't afford. [ProfAI](https://profai.site) takes a different approach. Instructors load their own course materials, and students get an AI tutor grounded in them, available by text, voice or a speaking avatar, with quizzes built from the week's content. It gives hints and asks questions back rather than handing out solutions, and faculty stay in control of what it knows and how it teaches.
 
-The webinar will take place on Ocotber 23rd, 2026 at 12:30 pm EST. The speaker is [Dr. Mohammad Soltaniehha](https://www.bu.edu/questrom/profiles/mohammad-soltaniehha/) from Boston University.
+In this webinar, Mohammad Soltaniehha from Boston University walks through a mock course: an introductory special relativity unit "taught" by an AI Albert Einstein. The course is built from Einstein's own public-domain writing, with a full syllabus, lecture scripts, readings and slides. You'll see it from both the student and instructor side. The goal of this demo is to showcase what is possible today and, hopefully, inspire the community to build tools that enable both faculty and students inside and outside of the classroom.
+
+The webinar will take place on October 23, 2026, at 12:30 pm ET. The [speaker](#oct-2026-speaker) is [Mohammad Soltaniehha](https://www.bu.edu/questrom/profiles/mohammad-soltaniehha/) from Boston University.
 
 [Register for the webinar at this link.](https://aapt.tradewing.com/events/Qe626XWBzRLBxj6LD)
 
-<div class="row">
- <div class="col-sm-6 col-sm-offset-3 clearfix">
-  <div class="well">
-   <pubtit>Mohammad Soltaniehha</pubtit>
-   <img src="/images/eventpic/soltanieh-ha.jpg" class="img-responsive" width="33%" style="float: left" />
-   <p>
+<div class="row"><a name="oct-2026-speaker"></a>
+
+<div class="col-sm-6 clearfix">
+ <div class="well">
+  <pubtit>Mohammad Soltaniehha</pubtit>
+  <img src="/images/eventpic/soltanieh-ha.jpg" class="img-responsive" width="33%" style="float: left" />
+  <p>
 Mohammad Soltaniehha is a computational physicist turned AI educator. He earned his Ph.D. at Northeastern University studying low-dimensional strongly correlated quantum systems, then worked as a data scientist in industry before joining Boston University's Questrom School of Business in 2018. He is now a Clinical Assistant Professor there, and his research focuses on embodied AI, interactive avatars, and socially impactful uses of LLMs. He founded the APS Topical Group on Data Science (GDS) and serves on the American Physical Society's Board of Directors. He is also Editor-in-Chief of DSECOP, an APS- and AIP-funded project that brings data science into the undergraduate physics curriculum.
-   </p>
-  </div>
+  </p>
  </div>
 </div>
 
+</div>
 
 <a name="webinar-may23"></a>
+<p> &nbsp; </p>
 
 ## Data Science Programs
 
