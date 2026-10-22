@@ -6,6 +6,33 @@ sitemap: false
 permalink: /webinars/
 ---
 
+## Large Language Model Programs
+
+
+<a name="webinar-oct23"></a>
+#### October 23rd, 2026, 12:30pm
+
+Students already use AI to get through problem sets, often getting answers instead of understanding. General chatbots don't know your syllabus, they can get the physics confidently wrong, and the best models sit behind paywalls many students can't afford. ProfAI (profai.site) takes a different approach. Instructors load their own course materials, and students get an AI tutor grounded in them, available by text, voice or a speaking avatar, with quizzes built from the week's content. It gives hints and asks questions back rather than handing out solutions, and faculty stay in control of what it knows and how it teaches.
+
+In this webinar, Mohammad Soltaniehha from Boston University walks through a mock course: an introductory special relativity unit "taught" by an AI Albert Einstein. The course is built from Einstein's own public-domain writing, with a full syllabus, lecture scripts, readings and slides. You'll see it from both the student and instructor side. The goal of this demo is to showcase what is possible today and, hopefully, inspire the community to build tools that enable both faculty and students inside and outside of the classroom
+
+The webinar will take place on Ocotber 23rd, 2026 at 12:30 pm EST. The speaker is [Dr. Mohammad Soltaniehha](https://www.bu.edu/questrom/profiles/mohammad-soltaniehha/) from Boston University.
+
+[Register for the webinar at this link.](https://aapt.tradewing.com/events/Qe626XWBzRLBxj6LD)
+
+<div class="row">
+ <div class="col-sm-6 col-sm-offset-3 clearfix">
+  <div class="well">
+   <pubtit>Mohammad Soltaniehha</pubtit>
+   <img src="/images/eventpic/soltanieh-ha.jpg" class="img-responsive" width="33%" style="float: left" />
+   <p>
+Mohammad Soltaniehha is a computational physicist turned AI educator. He earned his Ph.D. at Northeastern University studying low-dimensional strongly correlated quantum systems, then worked as a data scientist in industry before joining Boston University's Questrom School of Business in 2018. He is now a Clinical Assistant Professor there, and his research focuses on embodied AI, interactive avatars, and socially impactful uses of LLMs. He founded the APS Topical Group on Data Science (GDS) and serves on the American Physical Society's Board of Directors. He is also Editor-in-Chief of DSECOP, an APS- and AIP-funded project that brings data science into the undergraduate physics curriculum.
+   </p>
+  </div>
+ </div>
+</div>
+
+
 <a name="webinar-may23"></a>
 
 ## Data Science Programs
